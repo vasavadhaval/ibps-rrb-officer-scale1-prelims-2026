@@ -1,0 +1,100 @@
+{
+  "exam": {
+    "id": "sectional-timed-mock-exam",
+    "title": "Specialist Officer Mock Exam — Sectional Timers",
+    "type": "Full Length Timed Mock",
+    "date": "2026-09-23",
+    "duration_minutes": 40,
+    "sectional_timing": true,
+    "sectional_lock_until_timer_ends": false,
+    "total_questions": 4,
+    "total_marks": 50,
+    "marking": {
+      "correct": 1,
+      "wrong": -0.25,
+      "unattempted": 0
+    },
+    "sections": [
+      {
+        "id": "pk",
+        "name": "Professional Knowledge",
+        "questions": 2,
+        "marks": 25,
+        "duration_minutes": 20
+      },
+      {
+        "id": "reasoning",
+        "name": "Logical Reasoning",
+        "questions": 2,
+        "marks": 25,
+        "duration_minutes": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": 1,
+        "section": "pk",
+        "question": "Which of the following database isolation levels prevents dirty reads, non-repeatable reads, and phantom reads?",
+        "options": {
+          "A": "Read Uncommitted",
+          "B": "Read Committed",
+          "C": "Repeatable Read",
+          "D": "Serializable"
+        },
+        "answer": "D",
+        "difficulty": "Medium",
+        "topic": "Database Management",
+        "subtopic": "Transaction Isolation",
+        "explanation": "Serializable is the highest isolation level and completely prevents dirty reads, non-repeatable reads, and phantom reads."
+      },
+      {
+        "id": 2,
+        "section": "pk",
+        "question": "In TCP/IP architecture, which protocol is responsible for mapping an IP address to a physical MAC address?",
+        "options": {
+          "A": "DHCP",
+          "B": "ARP",
+          "C": "DNS",
+          "D": "ICMP"
+        },
+        "answer": "B",
+        "difficulty": "Easy",
+        "topic": "Computer Networks",
+        "subtopic": "Network Layer Protocols",
+        "explanation": "Address Resolution Protocol (ARP) translates 32-bit IPv4 addresses into 48-bit MAC physical hardware addresses."
+      },
+      {
+        "id": 3,
+        "section": "reasoning",
+        "question": "Pointing to a photograph of a woman, Rahul said, \"Her mother's only daughter is my mother.\" How is Rahul related to the woman?",
+        "options": {
+          "A": "Brother",
+          "B": "Son",
+          "C": "Nephew",
+          "D": "Father"
+        },
+        "answer": "B",
+        "difficulty": "Medium",
+        "topic": "Blood Relations",
+        "subtopic": "Direct Pointers",
+        "explanation": "The woman's mother's only daughter is the woman herself. Since Rahul says \"is my mother\", Rahul is her son."
+      },
+      {
+        "id": 4,
+        "section": "reasoning",
+        "question": "Statements: All computers are machines. All machines need electricity.\nConclusion I: All computers need electricity.\nConclusion II: All things that need electricity are computers.",
+        "options": {
+          "A": "Only Conclusion I follows",
+          "B": "Only Conclusion II follows",
+          "C": "Both I and II follow",
+          "D": "Neither I nor II follows"
+        },
+        "answer": "A",
+        "difficulty": "Easy",
+        "topic": "Syllogism",
+        "subtopic": "Deductive Reasoning",
+        "explanation": "Since all computers are machines and all machines need electricity, all computers need electricity (Conclusion I follows). Conclusion II is an illicit conversion and does not follow."
+      }
+    ]
+  }
+}

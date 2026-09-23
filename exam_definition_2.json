@@ -1,0 +1,96 @@
+{
+  "exam": {
+    "id": "exam-custom-template-1",
+    "title": "Comprehensive Practice Exam — Standard Pattern",
+    "type": "General & Technical",
+    "date": "2026-09-23",
+    "duration_minutes": 60,
+    "total_questions": 4,
+    "total_marks": 5,
+    "marking": {
+      "correct": 1.25,
+      "wrong": -0.25,
+      "unattempted": 0
+    },
+    "sections": [
+      {
+        "id": "pk",
+        "name": "Technical Knowledge",
+        "questions": 2,
+        "duration_minutes": 30
+      },
+      {
+        "id": "reasoning",
+        "name": "Logical Reasoning",
+        "questions": 2,
+        "duration_minutes": 30
+      }
+    ],
+    "questions": [
+      {
+        "id": 1,
+        "section": "pk",
+        "question": "Which data structure operates on the Last-In, First-Out (LIFO) principle?",
+        "options": {
+          "A": "Queue",
+          "B": "Stack",
+          "C": "Array",
+          "D": "Binary Search Tree"
+        },
+        "answer": "B",
+        "difficulty": "Easy",
+        "topic": "Data Structures",
+        "subtopic": "Stack",
+        "explanation": "A Stack follows the Last-In, First-Out (LIFO) order of elements."
+      },
+      {
+        "id": 2,
+        "section": "pk",
+        "question": "In SQL, which clause is used to filter the results of aggregate functions like COUNT() or AVG()?",
+        "options": {
+          "A": "WHERE",
+          "B": "HAVING",
+          "C": "ORDER BY",
+          "D": "GROUP BY"
+        },
+        "answer": "B",
+        "difficulty": "Medium",
+        "topic": "Database Management",
+        "subtopic": "SQL Clauses",
+        "explanation": "The HAVING clause filters groups created by GROUP BY after aggregate calculations."
+      },
+      {
+        "id": 3,
+        "section": "reasoning",
+        "question": "Complete the series: 3, 7, 15, 31, 63, ?",
+        "options": {
+          "A": "95",
+          "B": "127",
+          "C": "125",
+          "D": "128"
+        },
+        "answer": "B",
+        "difficulty": "Medium",
+        "topic": "Number Series",
+        "subtopic": "Exponential Series",
+        "explanation": "Each term is (previous * 2) + 1. 63 * 2 + 1 = 127."
+      },
+      {
+        "id": 4,
+        "section": "reasoning",
+        "question": "If all roses are flowers and some flowers fade quickly, which statement is definitely true?",
+        "options": {
+          "A": "All roses fade quickly",
+          "B": "Some flowers are roses",
+          "C": "No roses fade quickly",
+          "D": "All fading things are roses"
+        },
+        "answer": "B",
+        "difficulty": "Easy",
+        "topic": "Syllogism",
+        "subtopic": "Deductive Logic",
+        "explanation": "Since all roses are flowers, the inverse \"some flowers are roses\" is inherently true."
+      }
+    ]
+  }
+}

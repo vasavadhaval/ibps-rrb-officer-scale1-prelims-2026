@@ -1,0 +1,61 @@
+{
+  "exam": {
+    "id": "reading-comprehension-set-1",
+    "title": "Reading Comprehension & Data Interpretation",
+    "type": "Verbal & Analytical",
+    "date": "2026-09-23",
+    "duration_minutes": 30,
+    "total_questions": 2,
+    "total_marks": 2,
+    "marking": {
+      "correct": 1,
+      "wrong": -0.25,
+      "unattempted": 0
+    },
+    "sections": [
+      {
+        "id": "rc_section",
+        "name": "Reading Comprehension",
+        "questions": 2,
+        "duration_minutes": 30
+      }
+    ],
+    "questions": [
+      {
+        "id": 1,
+        "section": "rc_section",
+        "context_group": "passage_renewable_energy",
+        "context": "Directions (Q1 - Q2): Read the following passage:\n\nThe transition to renewable energy sources, particularly solar photovoltaics and wind turbines, has accelerated substantially over the past decade. Grid operators are increasingly deploying large-scale battery energy storage systems (BESS) to smooth out intermittency challenges. By buffering peak generation periods and releasing stored energy during peak demand, BESS enhances grid resilience and reduces reliance on fossil fuel peaker plants.",
+        "question": "According to the passage, why are Battery Energy Storage Systems (BESS) vital for renewable energy integration?",
+        "options": {
+          "A": "They increase fossil fuel reliance during base load hours",
+          "B": "They smooth out intermittency by buffering peak generation and discharging during high demand",
+          "C": "They eliminate the need for electrical grid maintenance",
+          "D": "They mandate shutdown of solar arrays during daytime"
+        },
+        "answer": "B",
+        "difficulty": "Easy",
+        "topic": "Reading Comprehension",
+        "subtopic": "Core Comprehension",
+        "explanation": "The passage explicitly explains that BESS buffers peak generation and releases power during peak demand to mitigate intermittency."
+      },
+      {
+        "id": 2,
+        "section": "rc_section",
+        "context_group": "passage_renewable_energy",
+        "question": "What additional benefit of BESS is mentioned in the passage regarding traditional energy infrastructure?",
+        "options": {
+          "A": "It replaces all standard transmission lines",
+          "B": "It reduces reliance on fossil fuel peaker plants and enhances grid resilience",
+          "C": "It increases peak tariff rates for residential users",
+          "D": "It requires continuous diesel generator backups"
+        },
+        "answer": "B",
+        "difficulty": "Medium",
+        "topic": "Reading Comprehension",
+        "subtopic": "Direct Inference",
+        "explanation": "The text highlights that BESS reduces reliance on fossil fuel peaker plants and enhances grid resilience."
+      }
+    ]
+  }
+}

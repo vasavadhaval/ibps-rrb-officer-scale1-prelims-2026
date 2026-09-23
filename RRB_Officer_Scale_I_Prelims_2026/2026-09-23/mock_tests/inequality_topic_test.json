@@ -1,0 +1,249 @@
+{
+  "exam": {
+    "id": "rrb-scale1-inequality-topic-test-01",
+    "title": "RRB Officer Scale-I - Inequality Topic Test 01",
+    "type": "Topic Practice Test",
+    "date": "2026-09-23",
+    "duration_minutes": 12,
+    "sectional_timing": true,
+    "sectional_lock_until_timer_ends": false,
+    "total_questions": 20,
+    "total_marks": 20,
+    "marking": {
+      "correct": 1,
+      "wrong": -0.25,
+      "unattempted": 0
+    },
+    "sections": [
+      {
+        "id": "reasoning_inequality",
+        "name": "Reasoning - Inequality",
+        "questions": 20,
+        "marks": 20,
+        "duration_minutes": 12
+      }
+    ],
+    "questions": [
+      {
+        "id": 1,
+        "section": "reasoning_inequality",
+        "question": "Statement: A > B >= C = D. Conclusions: I. A > D. II. B > D.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "A",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Direct Inequality",
+        "explanation": "A > B >= C = D guarantees A > D. B may equal D, so B > D is not definite."
+      },
+      {
+        "id": 2,
+        "section": "reasoning_inequality",
+        "question": "Statement: P <= Q < R <= S. Conclusions: I. P < R. II. S > Q.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "C",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Chain Formation",
+        "explanation": "The strict Q < R link makes P < R and S > Q definite."
+      },
+      {
+        "id": 3,
+        "section": "reasoning_inequality",
+        "question": "Statement: M = N >= O > P. Conclusions: I. M > P. II. O < M.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "A",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Equality in Chains",
+        "explanation": "M = N >= O > P guarantees M > P. O may equal M, so O < M is not definite."
+      },
+      {
+        "id": 4,
+        "section": "reasoning_inequality",
+        "question": "Statement: X < Y <= Z. Conclusions: I. Z > X. II. X = Z.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "A",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Reverse Comparison",
+        "explanation": "X < Y <= Z guarantees Z > X, making equality between X and Z impossible."
+      },
+      {
+        "id": 5,
+        "section": "reasoning_inequality",
+        "question": "Statement: A >= B >= C. Conclusions: I. A >= C. II. C > A.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "A",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Non-Strict Chain",
+        "explanation": "A is at least as large as C. Therefore C cannot be greater than A."
+      },
+      {
+        "id": 6,
+        "section": "reasoning_inequality",
+        "question": "Statement: J < K = L <= M. Conclusions: I. J < L. II. M >= K.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "C",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Equality in Chains",
+        "explanation": "K = L makes J < L definite, and L <= M makes M >= K definite."
+      },
+      {
+        "id": 7,
+        "section": "reasoning_inequality",
+        "question": "Statements: R > S; T >= R. Conclusions: I. T > S. II. S < T.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "C",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Equivalent Conclusions",
+        "explanation": "T >= R > S guarantees T > S. Both conclusions express that same relationship."
+      },
+      {
+        "id": 8,
+        "section": "reasoning_inequality",
+        "question": "Statements: U <= V; W < V. Conclusions: I. U < W. II. U >= W.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "E",
+        "difficulty": "Medium",
+        "topic": "Inequality",
+        "subtopic": "Either-Or",
+        "explanation": "U and W cannot be compared from the statements, but U < W and U >= W are complementary and exhaustive."
+      },
+      {
+        "id": 9,
+        "section": "reasoning_inequality",
+        "question": "Statement: H = I < J <= K. Conclusions: I. H < K. II. K > I.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "C",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Reverse Comparison",
+        "explanation": "H = I < J <= K guarantees H < K and K > I."
+      },
+      {
+        "id": 10,
+        "section": "reasoning_inequality",
+        "question": "Statements: A > B; C > B. Conclusions: I. A > C. II. C > A.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "D",
+        "difficulty": "Medium",
+        "topic": "Inequality",
+        "subtopic": "Broken Chain",
+        "explanation": "A and C are separate branches above B. They may also be equal, so neither strict conclusion is definite and the pair is not exhaustive."
+      },
+      {
+        "id": 11,
+        "section": "reasoning_inequality",
+        "question": "Statement: F >= G > H = I. Conclusions: I. I < F. II. G > I.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "C",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Chain Formation",
+        "explanation": "F >= G > H = I guarantees F > I and G > I."
+      },
+      {
+        "id": 12,
+        "section": "reasoning_inequality",
+        "question": "Statement: L < M <= N < O. Conclusions: I. L < N. II. O > M.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "C",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Chain Formation",
+        "explanation": "Both conclusions follow directly from the connected increasing chain."
+      },
+      {
+        "id": 13,
+        "section": "reasoning_inequality",
+        "question": "Statement: P = Q <= R < S. Conclusions: I. P < S. II. R > Q.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "A",
+        "difficulty": "Medium",
+        "topic": "Inequality",
+        "subtopic": "Strict vs Non-Strict",
+        "explanation": "P = Q <= R < S guarantees P < S. R may equal Q, so R > Q is not definite."
+      },
+      {
+        "id": 14,
+        "section": "reasoning_inequality",
+        "question": "Statement: A < B = C > D. Conclusions: I. A < D. II. C > A.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "B",
+        "difficulty": "Medium",
+        "topic": "Inequality",
+        "subtopic": "Broken Chain",
+        "explanation": "A and D cannot be compared because both are below B=C. C > A follows directly."
+      },
+      {
+        "id": 15,
+        "section": "reasoning_inequality",
+        "question": "Statement: W <= X = Y < Z. Conclusions: I. W < Z. II. Z > X.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "C",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Equality in Chains",
+        "explanation": "W <= X = Y < Z guarantees W < Z and Z > X."
+      },
+      {
+        "id": 16,
+        "section": "reasoning_inequality",
+        "question": "Codes: P @ Q means P > Q; P # Q means P <= Q; P $ Q means P = Q. Statement: A # B @ C $ D. Conclusions: I. B > D. II. A < D.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "A",
+        "difficulty": "Medium",
+        "topic": "Inequality",
+        "subtopic": "Coded Inequality",
+        "explanation": "Decoded: A <= B > C = D. Therefore B > D, while A and D cannot be compared."
+      },
+      {
+        "id": 17,
+        "section": "reasoning_inequality",
+        "question": "Codes: P % Q means P >= Q; P & Q means P < Q; P * Q means P = Q. Statement: P % Q & R * S. Conclusions: I. P < S. II. S > Q.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "B",
+        "difficulty": "Medium",
+        "topic": "Inequality",
+        "subtopic": "Coded Inequality",
+        "explanation": "Decoded: P >= Q < R = S. S > Q is definite, while P and S cannot be compared."
+      },
+      {
+        "id": 18,
+        "section": "reasoning_inequality",
+        "question": "Statements: E > F >= G; H < G. Conclusions: I. E > H. II. F > H.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "C",
+        "difficulty": "Medium",
+        "topic": "Inequality",
+        "subtopic": "Joining Statements",
+        "explanation": "Combining the statements gives E > F >= G > H, so both conclusions follow."
+      },
+      {
+        "id": 19,
+        "section": "reasoning_inequality",
+        "question": "Statements: T <= U; U <= V. Conclusions: I. T = V. II. V >= T.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "B",
+        "difficulty": "Easy",
+        "topic": "Inequality",
+        "subtopic": "Non-Strict Chain",
+        "explanation": "T <= U <= V guarantees V >= T, but equality between T and V is only possible, not definite."
+      },
+      {
+        "id": 20,
+        "section": "reasoning_inequality",
+        "question": "Statement: C > D < E. Conclusions: I. C > E. II. C <= E.",
+        "options": {"A": "Only Conclusion I follows", "B": "Only Conclusion II follows", "C": "Both conclusions follow", "D": "Neither conclusion follows", "E": "Either Conclusion I or II follows"},
+        "answer": "E",
+        "difficulty": "Medium",
+        "topic": "Inequality",
+        "subtopic": "Either-Or",
+        "explanation": "C and E cannot be compared from the statement, while C > E and C <= E are complementary and exhaustive."
+      }
+    ]
+  }
+}

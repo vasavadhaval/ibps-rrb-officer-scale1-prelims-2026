@@ -1,0 +1,49 @@
+{
+  "exam": {
+    "id": "rrb-scale1-simplification-topic-test-01",
+    "title": "RRB Officer Scale-I - Simplification Topic Test 01",
+    "type": "Topic Practice Test",
+    "date": "2026-09-23",
+    "duration_minutes": 15,
+    "sectional_timing": true,
+    "sectional_lock_until_timer_ends": false,
+    "total_questions": 20,
+    "total_marks": 20,
+    "marking": {
+      "correct": 1,
+      "wrong": -0.25,
+      "unattempted": 0
+    },
+    "sections": [
+      {
+        "id": "quant_simplification",
+        "name": "Quantitative Aptitude - Simplification",
+        "questions": 20,
+        "marks": 20,
+        "duration_minutes": 15
+      }
+    ],
+    "questions": [
+      {"id": 1, "section": "quant_simplification", "question": "48 / 6 * 3 + 5 = ?", "options": {"A": "21", "B": "24", "C": "29", "D": "32"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "BODMAS", "explanation": "Division and multiplication are evaluated left to right: 48/6=8, 8*3=24, and 24+5=29."},
+      {"id": 2, "section": "quant_simplification", "question": "(36 + 24) / 5 = ?", "options": {"A": "10", "B": "12", "C": "15", "D": "20"}, "answer": "B", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Brackets", "explanation": "Resolve the bracket first: 36+24=60, then 60/5=12."},
+      {"id": 3, "section": "quant_simplification", "question": "25% of 320 = ?", "options": {"A": "64", "B": "75", "C": "80", "D": "96"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Percentage", "explanation": "25% is one-fourth, and 320/4=80."},
+      {"id": 4, "section": "quant_simplification", "question": "3/5 of 250 = ?", "options": {"A": "100", "B": "125", "C": "150", "D": "175"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Fractions", "explanation": "250/5=50 and 50*3=150."},
+      {"id": 5, "section": "quant_simplification", "question": "Square root of 144 + cube root of 125 = ?", "options": {"A": "15", "B": "17", "C": "19", "D": "25"}, "answer": "B", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Roots", "explanation": "Square root of 144 is 12 and cube root of 125 is 5; total 17."},
+      {"id": 6, "section": "quant_simplification", "question": "7.5 * 8 - 16 = ?", "options": {"A": "40", "B": "42", "C": "44", "D": "48"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Decimals", "explanation": "7.5*8=60, and 60-16=44."},
+      {"id": 7, "section": "quant_simplification", "question": "2/3 + 5/6 = ?", "options": {"A": "7/6", "B": "4/3", "C": "3/2", "D": "5/3"}, "answer": "C", "difficulty": "Medium", "topic": "Simplification", "subtopic": "Fraction Addition", "explanation": "2/3=4/6; 4/6+5/6=9/6=3/2."},
+      {"id": 8, "section": "quant_simplification", "question": "18% of 450 = ?", "options": {"A": "72", "B": "81", "C": "90", "D": "108"}, "answer": "B", "difficulty": "Medium", "topic": "Simplification", "subtopic": "Percentage", "explanation": "10% of 450 is 45 and 8% is 36; total 81."},
+      {"id": 9, "section": "quant_simplification", "question": "625 / 25 + 15 = ?", "options": {"A": "35", "B": "40", "C": "45", "D": "50"}, "answer": "B", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Division", "explanation": "625/25=25, and 25+15=40."},
+      {"id": 10, "section": "quant_simplification", "question": "96 / 12 + 7 * 4 = ?", "options": {"A": "32", "B": "34", "C": "36", "D": "40"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "BODMAS", "explanation": "96/12=8 and 7*4=28; 8+28=36."},
+      {"id": 11, "section": "quant_simplification", "question": "(15 squared - 9 squared) / (15 - 9) = ?", "options": {"A": "6", "B": "18", "C": "24", "D": "36"}, "answer": "C", "difficulty": "Medium", "topic": "Simplification", "subtopic": "Algebraic Identity", "explanation": "Using (a^2-b^2)/(a-b)=a+b gives 15+9=24."},
+      {"id": 12, "section": "quant_simplification", "question": "1.25 * 64 = ?", "options": {"A": "72", "B": "76", "C": "80", "D": "84"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Decimal to Fraction", "explanation": "1.25=5/4, so 64*5/4=16*5=80."},
+      {"id": 13, "section": "quant_simplification", "question": "45% of 240 = ?", "options": {"A": "96", "B": "102", "C": "108", "D": "112"}, "answer": "C", "difficulty": "Medium", "topic": "Simplification", "subtopic": "Percentage", "explanation": "40% of 240 is 96 and 5% is 12; total 108."},
+      {"id": 14, "section": "quant_simplification", "question": "5/8 of 384 = ?", "options": {"A": "220", "B": "230", "C": "240", "D": "250"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Fractions", "explanation": "384/8=48 and 48*5=240."},
+      {"id": 15, "section": "quant_simplification", "question": "0.75 * 160 + 20 = ?", "options": {"A": "120", "B": "130", "C": "140", "D": "150"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Decimals", "explanation": "0.75 is 3/4; 3/4 of 160 is 120, then add 20 to get 140."},
+      {"id": 16, "section": "quant_simplification", "question": "Square root of 729 + cube root of 64 = ?", "options": {"A": "29", "B": "30", "C": "31", "D": "32"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Roots", "explanation": "Square root of 729 is 27 and cube root of 64 is 4; total 31."},
+      {"id": 17, "section": "quant_simplification", "question": "(84 / 7) + (9 * 6) - 8 = ?", "options": {"A": "54", "B": "56", "C": "58", "D": "60"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "BODMAS", "explanation": "84/7=12 and 9*6=54; 12+54-8=58."},
+      {"id": 18, "section": "quant_simplification", "question": "35% of 600 - 15% of 600 = ?", "options": {"A": "90", "B": "100", "C": "110", "D": "120"}, "answer": "D", "difficulty": "Medium", "topic": "Simplification", "subtopic": "Percentage Difference", "explanation": "The difference is 20% of 600, which equals 120."},
+      {"id": 19, "section": "quant_simplification", "question": "2.4 * 15 = ?", "options": {"A": "32", "B": "34", "C": "36", "D": "38"}, "answer": "C", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Decimal Multiplication", "explanation": "24*15=360; divide by 10 to get 36."},
+      {"id": 20, "section": "quant_simplification", "question": "(3/4 of 200) / 5 = ?", "options": {"A": "25", "B": "30", "C": "35", "D": "40"}, "answer": "B", "difficulty": "Easy", "topic": "Simplification", "subtopic": "Fractions and Division", "explanation": "3/4 of 200 is 150, and 150/5=30."}
+    ]
+  }
+}
