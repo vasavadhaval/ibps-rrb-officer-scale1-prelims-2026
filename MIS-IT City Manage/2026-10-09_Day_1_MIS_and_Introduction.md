@@ -1,146 +1,149 @@
-# 9 October 2026 — Day 1: MIS basics and your introduction
+# 9 ઓક્ટોબર 2026 — દિવસ 1: MIS ની સમજ અને પોતાનો પરિચય
 
-Today’s goal: understand the post, prepare a truthful one-minute introduction, and start basic Excel practice.
+આજનું લક્ષ્ય: પદનું કામ સમજવું, સાચી વિગતો સાથે એક મિનિટનો પરિચય તૈયાર કરવો અને Basic Excel નો અભ્યાસ શરૂ કરવો.
 
-## Study order — approximately four hours
+સમજાવટ સરળ ગુજરાતીમાં છે. MIS, Excel, Portal જેવા શબ્દો અંગ્રેજીમાં રાખ્યા છે, જેથી ઇન્ટરવ્યૂમાં ઓળખવામાં સરળ રહે.
 
-- [ ] 30 minutes: read the interview details below; check documents and confirm reporting arrangements.
-- [ ] 45 minutes: learn the job explanation and municipal vocabulary.
-- [ ] 60 minutes: fill in your introduction and prepare three real experience examples.
-- [ ] 60 minutes: enter the practice dataset and complete the basic Excel task below.
-- [ ] 45 minutes: answer today’s questions aloud, then check the model answers.
+## અભ્યાસનો ક્રમ — આશરે ચાર કલાક
 
-If you have only two hours: spend 30 minutes each on interview/documents, MIS basics, introduction and basic Excel. Work in blocks whenever you are free today.
+- [ ] 30 મિનિટ: નીચેની Interview વિગતો વાંચો, દસ્તાવેજ તપાસો અને Reporting સમય જાણો.
+- [ ] 45 મિનિટ: પદની જવાબદારીઓ અને Municipal શબ્દો સમજો.
+- [ ] 60 મિનિટ: પોતાનો પરિચય અને ત્રણ સાચા અનુભવના ઉદાહરણો તૈયાર કરો.
+- [ ] 60 મિનિટ: Practice data નાખીને Basic Excel exercise કરો.
+- [ ] 45 મિનિટ: આજના પ્રશ્નોના જવાબ મોટેથી બોલો, પછી નમૂના સાથે સરખાવો.
 
-## Your interview: what the advertisement actually says
+માત્ર બે કલાક હોય તો દસ્તાવેજ/Interview, MIS, પરિચય અને Excel માટે 30–30 મિનિટ આપો. વચ્ચે નાના વિરામ લો.
 
-I inspected the Gujarati advertisement scan linked by a recruitment listing. It states:
+## જાહેરાત મુજબ Interview ની વિગતો
 
-- Employer: Rajpipla Nagarpalika.
-- Post: City Manager (MIS/IT), under Swachh Bharat Mission 2.0.
-- Contract: 11 months, subject to the advertisement's mission/staffing conditions.
-- Qualifications shown: B.E./B.Tech IT, M.E./M.Tech IT, BCA/B.Sc IT, MCA/M.Sc IT.
-- Experience: one year **after obtaining the degree**.
-- Fixed monthly pay: ₹30,000.
-- Interview: **13 October 2026, 11:00 AM**, at Rajpipla Nagarpalika office, with documents.
-- Selection documents undergo further verification by the relevant offices.
+- સંસ્થા: **રાજપીપળા નગરપાલિકા**.
+- પદ: **City Manager (MIS/IT)**, સ્વચ્છ ભારત મિશન 2.0 હેઠળ.
+- કરાર: **11 મહિના**, જાહેરાતની Mission/Staffing શરતોને આધીન.
+- દર્શાવેલી લાયકાત: B.E./B.Tech IT, M.E./M.Tech IT, BCA/B.Sc IT, MCA/M.Sc IT.
+- અનુભવ: **ડિગ્રી મેળવ્યા પછી એક વર્ષ**.
+- Fixed માસિક પગાર: **₹30,000**.
+- Interview: **13 ઓક્ટોબર 2026, સવારે 11:00**, નગરપાલિકા કચેરી ખાતે દસ્તાવેજો સાથે.
+- પસંદગી બાદ સંબંધિત કચેરીઓ દ્વારા દસ્તાવેજોની વધુ ચકાસણી થાય છે.
 
-Source: [advertisement scan hosted by MaruGujarat](https://marugujarat.net/wp-content/uploads/2026/10/2026-10-05_082254.jpg). A local copy is [saved beside this guide](./Rajpipla_Recruitment_Advertisement_2026.jpg). This is a scan of the notice on a third-party host, not a notice independently retrieved from a government recruitment website. The [6 October recruitment listing](https://sscupdates.com/rajpipla-nagarpalika-city-manager-recruitment/) also reports the interview date, pay and post-degree experience requirement.
+સંદર્ભ: [જાહેરાતનો Scan](https://marugujarat.net/wp-content/uploads/2026/10/2026-10-05_082254.jpg), [આ Folder માંની નકલ](./Rajpipla_Recruitment_Advertisement_2026.jpg) અને [6 ઓક્ટોબરની ભરતી માહિતી](https://sscupdates.com/rajpipla-nagarpalika-city-manager-recruitment/). Scan તૃતીય પક્ષની Website પર છે; સરકારી ભરતી Website પરથી અલગથી મેળવેલો નથી.
 
-The district government's [municipality directory](https://narmada.nic.in/public-utility/rajpipla-municipality/) lists **Jalaram Society, Rajpipla, Narmada district, Gujarat 393145**, telephone **02640-220101**. This is the directory address; confirm the exact interview room and registration arrangements with the office. Make this call on 9 October or the next working day, not on interview morning.
+[જિલ્લાની અધિકૃત Directory](https://narmada.nic.in/public-utility/rajpipla-municipality/) મુજબ સરનામું **જલારામ સોસાયટી, રાજપીપળા, નર્મદા જિલ્લો, ગુજરાત 393145**; ફોન **02640-220101**. ચોક્કસ Interview room અને Registration સમય કચેરી સાથે અગાઉથી જાણી લો.
 
-Ask: “નમસ્તે, સિટી મેનેજર MIS/IT ના 13 ઓક્ટોબરના ઇન્ટરવ્યૂ માટે ફોન કર્યો છે. રિપોર્ટિંગ અને રજિસ્ટ્રેશનનો સમય, ચોક્કસ સ્થળ અને જરૂરી દસ્તાવેજો જણાવી શકશો?” Also clarify qualification acceptance if your degree title differs, the experience proof needed, and current contract conditions.
+ફોન પર પૂછો: “નમસ્તે, City Manager MIS/IT ના 13 ઓક્ટોબરના ઇન્ટરવ્યૂ માટે ફોન કર્યો છે. Reporting અને Registration નો સમય, ચોક્કસ સ્થળ અને જરૂરી દસ્તાવેજો જણાવી શકશો?” Degree નું નામ જુદું હોય તો તેની સ્વીકાર્યતા, Experience proof અને કરારની શરતો પણ પૂછો.
 
-**No official interview syllabus or practical-test requirement was found in this notice.** The study priorities below are preparation recommendations based on municipal MIS work and the SBM portal's reporting processes. They are not guaranteed interview questions. Older 2024 notices are not the authority for this 2026 recruitment.
+જાહેરાતમાં અધિકૃત **Interview syllabus અથવા Practical test** દર્શાવેલ નથી. નીચેના વિષયો સંભવિત કામને ધ્યાનમાં રાખીને તૈયારી માટે છે. જૂની 2024ની જાહેરાતને આ ભરતીની શરતો ન માનો.
 
-## Understand the job in simple language
+## MIS અને આ પદનું કામ સરળ રીતે સમજો
 
-**MIS = Management Information System.** It is a combination of people, processes and technology that turns records into information managers can use.
+**MIS = Management Information System.** લોકો, પ્રક્રિયા અને Technology ની મદદથી રેકોર્ડને અધિકારીઓ માટે ઉપયોગી માહિતીમાં ફેરવવાની વ્યવસ્થા.
 
-Example: sanitation staff provide ward collection records. The MIS person checks dates, ward IDs, units and totals, prepares a summary and flags gaps. The officer can then identify where service needs attention.
+ઉદાહરણ: સફાઈ કર્મચારી Ward નો Collection record આપે. MIS કર્મચારી તારીખ, Ward ID, Units અને કુલ તપાસે; Summary બનાવે અને ખૂટતી માહિતી બતાવે. અધિકારી તે આધારે સેવામાં સુધારો કરી શકે.
 
-**Data** is a raw value: “Ward 2: 260 households covered.” **Information** gives context: “Ward 2 covered 260 of 300 households: 86.67%.” A **decision** is the next action: check the unserved households and coordinate corrective work.
+- **Data:** “Ward 2 માં 260 ઘરોને સેવા મળી.”
+- **Information:** “300 માંથી 260 ઘરોને સેવા મળી એટલે Coverage 86.67%.”
+- **Decision:** બાકી ઘરોને સેવા કેમ ન મળી તે તપાસીને આગળની કાર્યવાહી કરવી.
 
-Suggested role responsibilities to understand, subject to the municipality's actual assignment:
+પદ માટે સમજવા જેવી સંભવિત જવાબદારીઓ; વાસ્તવિક કામ કચેરીના આદેશ મુજબ રહેશે:
 
-- Collect and maintain municipal programme records.
-- Check completeness, consistency and supporting evidence.
-- Prepare Excel summaries, charts and periodic reports.
-- Update authorised MIS portals after checks and approval.
-- Organise evidence such as registers, photographs and document references.
-- Coordinate with field staff and officers to resolve discrepancies.
-- Help with routine computer, printer, connectivity and file problems.
-- Track complaints, deadlines and pending actions where assigned.
-- Protect official data and maintain recoverable backups.
+- Municipal programme ના રેકોર્ડ એકત્ર કરવા અને સાચવવા.
+- માહિતી પૂરી છે કે નહીં અને પુરાવા સાથે મેળ ખાય છે કે નહીં તપાસવું.
+- Excel Summary, Chart અને સમયસર Report તૈયાર કરવા.
+- ચકાસણી અને મંજૂરી પછી અધિકૃત Portal Update કરવું.
+- Register, Photo અને Documents ના References ગોઠવવા.
+- Field staff અને અધિકારીઓ સાથે તફાવત ઉકેલવા.
+- સોંપવામાં આવે તે મુજબ Computer, Printer અને Internet ની સામાન્ય સમસ્યામાં મદદ કરવી.
+- ફરિયાદો, Deadline અને બાકી કામનું Follow-up કરવું.
+- અધિકૃત Data સુરક્ષિત રાખવો અને Backup જાળવવો.
 
-**A strong answer:** “I see this as a data and coordination role. I would collect records, validate them against evidence, prepare useful reports, update approved portals and help staff with routine IT problems. Accurate reporting should help the municipality improve service.”
+બોલવાનો નમૂનો: “આ પદમાં Data નું સંકલન, ચકાસણી અને સમયસર Reporting મહત્વનું છે. હું Field staff પાસેથી રેકોર્ડ મેળવી, પુરાવા સાથે તપાસીને Report તૈયાર કરીશ. જરૂરી મંજૂરી બાદ Portal Update કરીશ અને સામાન્ય IT સમસ્યાઓમાં મદદ કરીશ.”
 
-Gujarati: “આ પદમાં નગરપાલિકાના ડેટાનું સંકલન, ચકાસણી, રિપોર્ટિંગ અને અધિકૃત પોર્ટલ પર અપડેટ મહત્વનું છે. હું ફીલ્ડ સ્ટાફ અને અધિકારીઓ સાથે સંકલન કરીને સાચો અને સમયસર રિપોર્ટ તૈયાર કરીશ.”
+## નગરપાલિકા અને સ્વચ્છ ભારતની મૂળભૂત સમજ
 
-## Municipal and Swachh Bharat basics
+**SBM-U = Swachh Bharat Mission–Urban.** પ્રથમ તબક્કો 2 ઓક્ટોબર 2014 અને SBM-U 2.0 નો પ્રારંભ 1 ઓક્ટોબર 2021 થયો. મુખ્ય દિશા કચરામુક્ત શહેરો અને ટકાઉ સ્વચ્છતા છે. [અધિકૃત Mission overview](https://stagingwebsite.sbmurban.org/aboutUs).
 
-### Facts to understand
+**ULB = Urban Local Body**, એટલે શહેરી સ્થાનિક સ્વરાજ્યની સંસ્થા. અહીં સંસ્થા રાજપીપળા નગરપાલિકા છે, નર્મદા જિલ્લામાં. [અધિકૃત Directory](https://narmada.nic.in/public-utility/rajpipla-municipality/).
 
-SBM-U means Swachh Bharat Mission–Urban. Its first phase launched on 2 October 2014; phase 2.0 launched on 1 October 2021 with a vision of garbage-free cities and sustained sanitation. Source: [official mission overview](https://stagingwebsite.sbmurban.org/aboutUs).
+GFC પ્રક્રિયામાં City profile અને MIS ભરવું, Documents/Declarations Upload કરવાં અને Third-party verification સામેલ છે. એટલે સાચો Data અને પુરાવા મહત્વના છે. [અધિકૃત GFC પ્રક્રિયા](https://stagingwebsite.sbmurban.org/gfc-result-dashboard-2024-25).
 
-ULB means Urban Local Body. Rajpipla Nagarpalika is the municipality named in your notice. Its official contact directory places it in Narmada district. Source: [district directory](https://narmada.nic.in/public-utility/rajpipla-municipality/).
+### ટેક્નિકલ શબ્દનો અર્થ સમજો
 
-The official GFC process includes completing the city profile and MIS, uploading evidence/declarations, and third-party verification. This supports preparing for data accuracy and evidence handling. Source: [official GFC dashboard and application process](https://stagingwebsite.sbmurban.org/gfc-result-dashboard-2024-25).
+- **SWM — Solid Waste Management:** ઘન કચરાનું Collection, Transport, Sorting, Processing અને યોગ્ય Disposal.
+- **Source segregation:** જ્યાં કચરો બને ત્યાં જ અલગ કરવો. ભીનો કચરો: ખોરાક/જૈવિક કચરો; સૂકો Recyclable કચરો: યોગ્ય Paper, Plastic, Metal. અન્ય પ્રકારના કચરાની અલગ નિયત વ્યવસ્થા હોઈ શકે.
+- **D2D — Door-to-door collection:** ઘરેથી કચરો એકત્ર કરવો.
+- **MRF — Material Recovery Facility:** સૂકા કચરાની છટણી કરીને ફરી ઉપયોગ/રીસાયક્લિંગ માટે સામગ્રી અલગ કરવાનું સ્થળ.
+- **Composting:** યોગ્ય જૈવિક કચરામાંથી ખાતર બનાવવું.
+- **Legacy waste:** જૂના Dumpsite પર વર્ષોથી જમા થયેલો કચરો.
+- **TPD — Tonnes per day:** રોજના ટન. kg, tonnes, રોજનો દર અને માસિક કુલમાં ફરક રાખો.
+- **IEC — Information, Education and Communication:** ઉદાહરણ તરીકે કચરો અલગ કરવા અંગે જનજાગૃતિ.
+- **KPI — Key Performance Indicator:** કામગીરીની પ્રગતિ માપવાનો નક્કી કરેલો માપદંડ.
+- **GIS — Geographic Information System:** માહિતી સાથે સ્થળ જોડતી વ્યવસ્થા.
+- **Geotag:** Photo/Record સાથે સ્થાનની માહિતી. તે એકલું આખું કામ પૂર્ણ થયું હોવાનો પુરાવો નથી.
+- **SLA — Service Level Agreement:** લાગુ પડતો Service standard અથવા Deadline. ફરિયાદ માટે પોતાની રીતે Deadline ન બનાવો.
 
-### Vocabulary: learn the meaning, not only the full form
+### સ્વચ્છતાના પ્રમાણપત્રો
 
-- **SWM:** solid waste management: collection, transport, sorting, processing and appropriate disposal.
-- **Source segregation:** separating waste where it is generated. Wet waste includes food/organic waste; dry recyclable waste includes suitable paper, plastic and metal. Other waste streams need their specified handling; do not assume all waste fits two categories.
-- **D2D:** door-to-door collection.
-- **MRF:** material recovery facility, where dry waste can be sorted for recovery/recycling.
-- **Composting:** treatment of suitable biodegradable waste to produce compost.
-- **Legacy waste:** previously accumulated waste at old dumpsites.
-- **TPD:** tonnes per day. Always distinguish kilograms, tonnes, daily rates and monthly totals.
-- **IEC:** information, education and communication; for example, awareness about segregation.
-- **KPI:** key performance indicator, a defined measure used to track progress.
-- **GIS:** geographic information system; links information to locations.
-- **Geotag:** location information linked to a photo or record. A geotag alone does not prove the whole service was completed.
-- **SLA:** service level agreement; a defined service standard or deadline where applicable. Do not invent a complaint deadline.
+- **ODF:** ખુલ્લામાં શૌચથી મુક્તિ.
+- **ODF+:** ઉપરાંત કાર્યરત અને સારી રીતે જાળવેલ Community/Public toilets તથા ખુલ્લામાં પેશાબ ન થવો.
+- **ODF++:** ઉપરાંત Sewage/Faecal sludge નું સુરક્ષિત સંચાલન અને Treatment.
+- **Water+:** Used water નું Collection, Treatment અને ટકાઉ Reuse.
 
-### Sanitation certification terms
+આ ટૂંકી સમજ છે, સંપૂર્ણ Certification શરતો નથી. [અધિકૃત SBM વર્ણન](https://stagingwebsite.sbmurban.org/).
 
-Learn the distinction: **ODF** concerns freedom from open defecation; **ODF+** adds functional, maintained community/public toilets and no open urination; **ODF++** adds safe management and treatment of sewage/faecal sludge; **Water+** concerns collection, treatment and sustainable reuse of used water. These are brief explanations, not the full certification conditions. Source: [official SBM dashboard descriptions](https://stagingwebsite.sbmurban.org/).
+**Swachh Survekshan:** શહેરી સ્વચ્છતાનું Assessment. **GFC:** Garbage Free Cities નું Star-rating certification. Criteria અને Scoring દરેક Edition મુજબ બદલાઈ શકે; 2023ના Marks ને 2026ના નિયમ ન કહો. [2023નું અધિકૃત ઐતિહાસિક પાનું](https://ss2023.sbmurban.org/).
 
-**Swachh Survekshan** is an urban cleanliness assessment. **GFC** is Garbage Free Cities star-rating certification. Understand that evidence and verification matter. Exact survey indicators, scores and protocols change by edition; check the applicable current documents before quoting a scoring rule. Do not memorise the 2023 marks as if they apply in 2026. Source for the assessment concept: [official Swachh Survekshan site, historical 2023 edition](https://ss2023.sbmurban.org/).
+### રાજપીપળા વિશે શું બોલવું?
 
-### What to say about Rajpipla
+“આ પદ નર્મદા જિલ્લાના રાજપીપળા નગરપાલિકા માટે SBM 2.0 હેઠળ છે. હું પહેલાં Ward structure, Reporting formats, હાલના રેકોર્ડ અને બાકી Data issues જાણીશ; પછી પુરાવા આધારિત સુધારા સૂચવીશ.”
 
-“I have checked that this is Rajpipla Nagarpalika in Narmada district and that the post is advertised under SBM 2.0. I would first learn its ward structure, reporting formats, current service records and pending data issues before proposing improvements.”
+Ward count, Population, Rank, Certification અથવા અધિકારીનાં નામ Guess ન કરો. Guide માટે તે ચકાસેલ નથી. સ્થાનિક સમસ્યા ખરેખર જોઈ હોય તો સ્થળ અને નિરીક્ષણ કહો; ન જોઈ હોય તો તપાસવા જેવી સંભવિત બાબત તરીકે રજૂ કરો.
 
-Do not guess its ward count, population, current cleanliness rank, certification or office-holder names. Those were not verified for this guide. If asked about a local problem you have actually observed, describe the location and observation, then say what records you would examine. Otherwise describe it as a possible issue to investigate, not a known fact.
+## પોતાનો પરિચય અને વ્યક્તિગત જવાબો
 
-## Prepare your personal answers
+### એક મિનિટનો પરિચય
 
-### Your one-minute introduction
+ખાલી જગ્યાઓમાં તમારી સાચી વિગતો લખો. પછી વાંચ્યા વગર ત્રણ વખત બોલો:
 
-Fill this in today:
+“નમસ્તે સર/મેડમ. મારું નામ [નામ] છે અને હું [સ્થળ]નો રહેવાસી છું. મેં [વર્ષ]માં [સંસ્થા]માંથી [ડિગ્રી] પૂર્ણ કરી છે. મને [સાચો સમયગાળો]નો [કામ/સંસ્થા]માં અનુભવ છે. મારા કામમાં મુખ્યત્વે [બે જવાબદારીઓ]નો સમાવેશ થતો હતો. મને [જે આવડત બતાવી શકો તે]માં કામ કરવાની આવડત છે. હું મારા Data અને Computer કૌશલ્યનો ઉપયોગ નગરપાલિકાના સાચા અને સમયસર Reporting માટે કરવા ઇચ્છું છું. જરૂરી Portal અને પ્રક્રિયા શીખવા તથા ટીમ સાથે સંકલન કરવા તૈયાર છું.”
 
-“Good morning. My name is [name], and I am from [place]. I completed [degree] from [institution] in [year]. I have [actual duration] of experience in [actual organisation/work]. My main responsibilities were [two relevant tasks]. I am comfortable with [skills you can demonstrate]. I am interested in the City Manager MIS/IT role because I want to use my data and computer skills for accurate municipal reporting and public service. I am ready to learn the required systems and coordinate with field staff.”
+અંગ્રેજીમાં જવાબ આપવો હોય તો આ ટૂંકો નમૂનો રાખો:
 
-Gujarati version:
+“Good morning. My name is [name]. I completed [degree] from [institution]. I have [actual duration] of experience in [actual work]. My main responsibilities were [two tasks]. I am interested in using my IT skills for accurate municipal reporting and public service.”
 
-“નમસ્તે સર/મેડમ. મારું નામ [નામ] છે અને હું [સ્થળ]નો રહેવાસી છું. મેં [વર્ષ]માં [સંસ્થા]માંથી [ડિગ્રી] પૂર્ણ કરી છે. મને [સાચો સમયગાળો]નો [કામ/સંસ્થા]માં અનુભવ છે. મારા કામમાં મુખ્યત્વે [બે જવાબદારીઓ]નો સમાવેશ થતો હતો. મને [સાચી આવડત]માં કામ કરવાની આવડત છે. હું મારા ડેટા અને કમ્પ્યુટર કૌશલ્યનો ઉપયોગ નગરપાલિકાના સાચા અને સમયસર રિપોર્ટિંગ માટે કરવા ઇચ્છું છું. જરૂરી પોર્ટલ અને પ્રક્રિયા શીખવા તથા ટીમ સાથે સંકલન કરવા તૈયાર છું.”
+જાહેરાત મુજબ ડિગ્રી પછીનો જરૂરી અનુભવ ન હોય તો કચેરી સાથે પાત્રતા સ્પષ્ટ કરો. સાચા Projects, Internship અને નોકરીને તે પ્રમાણે જ ઓળખાવો. Practice exercise ને નોકરીનો અનુભવ ન કહો.
 
-If you do not have the advertised year of post-degree experience, do not replace the experience line with invented work. Confirm eligibility with the office and explain your genuine projects, internships or work as such. A practice exercise does not establish employment experience.
+### ત્રણ સાચા ઉદાહરણો તૈયાર કરો — STAR method
 
-### Prepare three true examples
+દરેક ઉદાહરણ માટે ચાર બાબતો કહો: **Situation** — પરિસ્થિતિ; **Task** — તમારી જવાબદારી; **Action** — તમે લીધેલાં પગલાં; **Result** — પરિણામ.
 
-For each, write four sentences: situation, your responsibility, what you did, result. This is the STAR method: Situation, Task, Action, Result.
+1. Data, Spreadsheet અથવા Report નું કામ.
+2. તમે ઉકેલેલી Computer અથવા Technical સમસ્યા.
+3. Deadline અથવા ટીમ સાથે કામ કરવાનો અનુભવ.
 
-1. A spreadsheet/report or data task.
-2. A computer/technical issue you helped resolve.
-3. A deadline or teamwork problem.
+નમૂનો: “અમને [સાચી સમસ્યા/રેકોર્ડ] મળ્યા. મારી જવાબદારી [તમારું કામ] હતી. મેં [પગલાં] લીધાં અને [વ્યક્તિ/ટીમ] સાથે સંકલન કર્યું. પરિણામે [સાચું પરિણામ] મળ્યું.”
 
-Template: “We received [real records/problem]. I was responsible for [your actual task]. I checked [steps] and coordinated with [people]. The result was [true result].” If you do not know a numerical improvement, use a truthful qualitative result. Do not invent percentages.
+આંકડામાં સુધારો માપ્યો ન હોય તો બનાવટી ટકા ન કહો. જે ખરેખર થયું તે સરળ રીતે સમજાવો.
 
-### Common HR answers
+### સામાન્ય HR પ્રશ્નો
 
-**Why this post?** “It combines data handling, IT and coordination. I am interested in using accurate information to support municipal services.” Add one true experience example.
+**આ પદ કેમ પસંદ કર્યું?** “આ પદમાં Data handling, IT અને સંકલનનો ઉપયોગ થાય છે. હું સાચી માહિતી દ્વારા નગરપાલિકાની સેવાઓમાં યોગદાન આપવા ઇચ્છું છું.” સાથે તમારું એક સાચું ઉદાહરણ આપો.
 
-**Why should we select you?** “I can contribute [two skills I can demonstrate], work carefully with records and follow deadlines. For example, [real example]. I am also willing to learn the required municipal systems.”
+**અમે તમને કેમ પસંદ કરીએ?** “મને [બતાવી શકાય તેવી બે આવડત] આવે છે. હું રેકોર્ડ ધ્યાનથી તપાસીને સમયસર કામ કરી શકું છું. ઉદાહરણ તરીકે [સાચો અનુભવ]. જરૂરી Municipal systems શીખવા પણ તૈયાર છું.”
 
-**Strength?** Pick one relevant trait and evidence: accuracy, organised work, learning or clear communication. Avoid unsupported claims such as “I am expert in everything.”
+**તમારી Strength શું છે?** ચોકસાઈ, વ્યવસ્થિત કામ, શીખવાની તૈયારી અથવા સ્પષ્ટ વાતચીતમાંથી સાચી બાબત પસંદ કરો અને પુરાવો આપો. “મને બધું આવે છે” ન કહો.
 
-**Weakness?** Name a manageable, true weakness and what you do about it: “I previously spent too long formatting reports. I now validate the data first and use a standard layout to meet deadlines.” Use this only if true.
+**Weakness શું છે?** સાચી અને સુધારી શકાય તેવી બાબત કહો. ઉદાહરણ, માત્ર સાચું હોય તો: “પહેલાં Report formatting માં વધુ સમય જતો હતો. હવે પહેલાં Data ચકાસું છું અને Standard format વાપરું છું.”
 
-**You lack municipal experience?** “I have not worked in a municipality yet. My relevant experience is [actual work]. I understand the importance of source records, approval and deadlines, and I will learn the local process under guidance.”
+**નગરપાલિકાનો અનુભવ નથી તો?** “હજુ નગરપાલિકામાં કામ કર્યું નથી. મારો સંબંધિત અનુભવ [સાચું કામ] છે. Source records, મંજૂરી અને Deadline નું મહત્વ સમજું છું. માર્ગદર્શન હેઠળ સ્થાનિક પ્રક્રિયા શીખીશ.”
 
-**If you do not know an answer:** “I have not worked with that yet. My current understanding is [what you genuinely know]. I would confirm the approved process before acting.”
+**જવાબ ન આવડે તો?** “આ બાબત પર હજી કામ કર્યું નથી. મારી હાલની સમજ [જે ખરેખર જાણો તે] છે. કામ કરતાં પહેલાં અધિકૃત પ્રક્રિયા જાણી લઈશ.”
 
-**Availability/contract/pay:** give your real availability. The notice lists ₹30,000 fixed pay and an 11-month contract; read and clarify the terms rather than promising conditions you have not understood.
+**Joining, પગાર અને કરાર:** સાચી ઉપલબ્ધતા જણાવો. જાહેરાતમાં ₹30,000 fixed માસિક પગાર અને 11 મહિનાનો કરાર દર્શાવેલ છે. શરતો સમજીને જવાબ આપો.
 
-## Today's basic Excel practice
+## Basic Excel ની પ્રેક્ટિસ
 
-The following data is fictional practice material, not Rajpipla data. Keep this sheet for tomorrow.
+આ **કાલ્પનિક Practice data** છે, રાજપીપળાનો સાચો Data નથી. આવતીકાલ માટે Sheet સાચવો.
 
-### A. Enter this dataset
-
-Create a sheet named `Practice`. Put the following into cells A1:H7. If pasting puts everything in one column, use Data → Text to Columns → Delimited → Comma. This is inline sample data, not an additional file you must download.
+`Practice` નામની Sheet માં A1:H7 સુધી નાખો. બધું એક Column માં આવે તો **Data → Text to Columns → Delimited → Comma** વાપરો.
 
 ```text
 Date,Ward,Households,Covered,Segregating,WasteKg,ProcessedKg,Complaints
@@ -152,58 +155,63 @@ Date,Ward,Households,Covered,Segregating,WasteKg,ProcessedKg,Complaints
 2026-10-10,3,250,230,180,610,480,5
 ```
 
-For this exercise, `Covered` means households served that day; `Segregating` is a subset of covered households; `WasteKg` is waste collected that day; `ProcessedKg` is the portion of that day's collected waste processed. In actual reporting, define each field according to the required reporting format: processing may include earlier stock and collection is not necessarily generation.
+Columns નો અર્થ:
 
-The same ward population repeats on two dates. Summing `Households` across both dates gives household-day observations, not the city's unique households. This is a useful interview example of why reporting period and denominator matter.
+- `Households`: Ward ના ઘરોની સંખ્યા.
+- `Covered`: તે દિવસે સેવા મળેલા ઘરો.
+- `Segregating`: Covered ઘરોમાંથી કચરો અલગ કરતા ઘરો.
+- `WasteKg`: તે દિવસે એકત્ર કરેલો કચરો, kg માં.
+- `ProcessedKg`: આ Exercise માં તે દિવસે એકત્ર કરેલા કચરામાંથી Process થયેલો ભાગ.
+- `Complaints`: ફરિયાદોની સંખ્યા.
 
+વાસ્તવિક Report માં કચેરીની વ્યાખ્યા અનુસરો. Processing માં અગાઉનો Stock પણ હોઈ શકે; Collection અને Generation એક જ વસ્તુ નથી. બંને તારીખના Households ઉમેરવાથી ઘરોની રોજવાર ગણતરી મળે, અલગ-અલગ ઘરોની કુલ સંખ્યા નહીં.
 
-
-Put `Coverage` in I1. In I2 enter:
+I1 માં `Coverage` લખો. I2 માં નાખો:
 
 ```excel
 =IF(C2=0,"Check denominator",D2/C2)
 ```
 
-Fill down to I7 and format valid numbers as percentages. Do not multiply by 100 as well as using Percentage format.
+I7 સુધી Fill down કરો અને યોગ્ય આંકડાને Percentage format આપો. Format સાથે ફરી ×100 ન કરો.
 
-1. Use `=SUM(F2:F7)` to total the collected waste. Expected: **3610 kg**.
-2. Use `=SUM(D2:D4)/SUM(C2:C4)` for 9 October coverage. Expected: **90%**.
-3. Filter Ward 2. Expected: two rows, one for each date.
-4. Sort the whole dataset by Complaints, largest first. Keep all columns together.
-5. Explain aloud why summing household counts across two dates does not give unique city households.
+1. `=SUM(F2:F7)` દ્વારા કુલ Waste: **3610 kg**.
+2. `=SUM(D2:D4)/SUM(C2:C4)` દ્વારા 9 ઓક્ટોબર Coverage: **90%**.
+3. Ward 2 Filter કરો: બે Rows, દરેક તારીખ માટે એક.
+4. આખો Dataset પસંદ કરીને Complaints પ્રમાણે Largest to Smallest Sort કરો.
+5. સમજાવો: એક જ ઘરોની સંખ્યા બે દિવસ ઉમેરવાથી શહેરના Unique households કેમ ન મળે?
 
-## Today's interview questions and answers
+## આજના પ્રશ્નો અને જવાબો
 
-Practise without reading first; aim for 30–60 seconds per answer.
+પહેલાં વાંચ્યા વગર બોલવાનો પ્રયત્ન કરો. દરેક જવાબ આશરે 30–60 સેકન્ડ.
 
-**1. What is MIS?** A system of people, processes and technology that converts data into useful management information. In a municipality it can show service coverage, pending work and trends.
+**1. MIS શું છે?** લોકો, પ્રક્રિયા અને Technology દ્વારા Data ને નિર્ણય માટે ઉપયોગી માહિતી બનાવતી વ્યવસ્થા. નગરપાલિકામાં Coverage, બાકી કામ અને Trends બતાવે છે.
 
-**2. What is the difference between data and information?** Data is a raw record; information is data with context. “180 households served” becomes useful when compared with the 200 eligible households and the correct date.
+**2. Data અને Information માં શું ફરક?** Data કાચી નોંધ છે. Information તેમાં તારીખ અને આધાર ઉમેરે છે. “180 ઘરોને સેવા” સાથે “200 માંથી 180” કહીએ તો સ્થિતિ સ્પષ્ટ થાય.
 
-**3. What would you do as City Manager MIS/IT?** Collect and validate records, prepare reports, update authorised systems after required review, organise evidence, coordinate corrections and support routine IT tasks assigned to me.
+**3. City Manager MIS/IT તરીકે શું કરશો?** રેકોર્ડ એકત્ર અને ચકાસીશ, Report બનાવીશ, જરૂરી Review પછી અધિકૃત Portal Update કરીશ, પુરાવા સાચવીશ અને સોંપેલ IT કામમાં મદદ કરીશ.
 
-**4. Why is accurate data important?** Wrong figures can hide service gaps and lead to poor decisions. I would use traceable source records, checks and review before submission.
+**4. સાચો Data કેમ જરૂરી?** ખોટા આંકડા સેવામાં રહેલી ખામી છુપાવી શકે અને ખોટા નિર્ણય તરફ લઈ જાય. હું Source record, Checks અને Review પછી Submit કરીશ.
 
-**5. What do you know about SBM-U 2.0?** It is an urban sanitation mission with a garbage-free-city vision. For this role I would focus on reliable reporting and evidence about collection, segregation, waste handling and sanitation activities.
+**5. SBM-U 2.0 વિશે શું જાણો છો?** શહેરી સ્વચ્છતા માટે કચરામુક્ત શહેરની દિશામાં Mission છે. આ પદ માટે Collection, Segregation, Waste handling અને Sanitation નું વિશ્વસનીય Reporting મહત્વનું છે.
 
-**6. What is source segregation?** Separating waste at its point of generation so suitable streams can be collected and processed appropriately. The reporting definitions must match the applicable format.
+**6. Source segregation શું છે?** કચરો જ્યાં બને ત્યાં અલગ કરવો, જેથી યોગ્ય Collection અને Processing થઈ શકે. Report માટે નિયત વ્યાખ્યા અનુસરવી.
 
-**7. What is the difference between Swachh Survekshan and GFC?** Swachh Survekshan assesses urban cleanliness; GFC is a star-rating certification process. I would refer to the applicable edition's protocols for exact criteria.
+**7. Swachh Survekshan અને GFC માં ફરક?** પહેલું શહેરી સ્વચ્છતાનું Assessment છે; બીજું Star-rating certification. ચોક્કસ Criteria માટે સંબંધિત Edition ના Protocol જુઓ.
 
-**8. What do you know about Rajpipla?** The advertised employer is Rajpipla Nagarpalika in Narmada district. I have checked its official contact directory. I would learn ward-level operations and verified service data rather than guess local figures.
+**8. રાજપીપળા વિશે શું જાણો છો?** આ ભરતી નર્મદા જિલ્લાના રાજપીપળા નગરપાલિકા માટે છે. અધિકૃત સંપર્કની માહિતી જોઈ છે. Ward-level કામ અને ચકાસેલ Data શીખીશ, સ્થાનિક આંકડા Guess નહીં કરું.
 
-## End-of-day check
+## દિવસના અંતે ચકાસો
 
-- [ ] I can introduce myself in approximately one minute.
-- [ ] I can explain MIS and this post in simple language.
-- [ ] I know the meaning of ULB, SBM-U, segregation and D2D.
-- [ ] I have checked my qualification and post-degree experience documents.
-- [ ] I have saved my practice sheet and calculated 90% coverage.
+- [ ] એક મિનિટમાં પોતાનો પરિચય આપી શકું છું.
+- [ ] MIS અને પદનું કામ સરળ રીતે સમજાવી શકું છું.
+- [ ] ULB, SBM-U, Segregation અને D2D સમજું છું.
+- [ ] Degree પછીના Experience proof તપાસ્યા છે.
+- [ ] Practice sheet Save કરી છે અને 90% Coverage ગણ્યું છે.
 
-Completed today:
-My weakest topic:
-One question to revise tomorrow:
+આજે પૂર્ણ કર્યું:
+મારો નબળો વિષય:
+આવતીકાલે ફરી કરવો તે પ્રશ્ન:
 
-Next: [10 October — Excel and data quality](./2026-10-10_Day_2_Excel_and_Data_Quality.md).
+આગળ: [10 ઓક્ટોબર — Excel અને Data quality](./2026-10-10_Day_2_Excel_and_Data_Quality.md).
 
-Preparation material organised from the [complete researched guide](./Interview_Preparation_09_to_13_October_2026.md). Suggested topics and questions are not an official interview syllabus.
+આ સામગ્રી [સંપૂર્ણ સંદર્ભ Guide](./Interview_Preparation_09_to_13_October_2026.md) પરથી ગોઠવેલી છે. સૂચવેલા વિષયો અને પ્રશ્નો તૈયારી માટે છે; આ અધિકૃત Interview syllabus નથી.

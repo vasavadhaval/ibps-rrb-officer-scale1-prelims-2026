@@ -1,79 +1,89 @@
-# 11 October 2026 — Day 3: IT, portals and municipal scenarios
+# 11 ઓક્ટોબર 2026 — દિવસ 3: IT, Portal અને Municipal Scenarios
 
-Today’s goal: answer practical problems with a clear process and sensible judgement.
+આજનું લક્ષ્ય: વાસ્તવિક સમસ્યા માટે સ્પષ્ટ પ્રક્રિયા અને સમજદારીથી જવાબ આપવો.
 
-## Study order — approximately four hours
+## અભ્યાસનો ક્રમ — આશરે ચાર કલાક
 
-- [ ] 30 minutes: explain yesterday’s Excel report as if speaking to an officer.
-- [ ] 60 minutes: learn IT concepts and practise the troubleshooting sequence.
-- [ ] 45 minutes: revise the reporting workflow and sanitation reminders below.
-- [ ] 30 minutes: study basic SQL; treat this as optional if time is short.
-- [ ] 60 minutes: practise the 13 scenario answers below.
-- [ ] 15 minutes: record your introduction and one scenario answer; listen and improve.
+- [ ] 30 મિનિટ: ગઈકાલનો Excel report અધિકારીને સમજાવતા હો તે રીતે બોલો.
+- [ ] 60 મિનિટ: Basic IT અને Troubleshooting નો અભ્યાસ કરો.
+- [ ] 45 મિનિટ: Reporting workflow અને સ્વચ્છતાની બાબતો ફરી જુઓ.
+- [ ] 30 મિનિટ: Basic SQL; સમય ઓછો હોય તો આ ભાગ વૈકલ્પિક રાખો.
+- [ ] 60 મિનિટ: નીચેના 13 Scenario જવાબો મોટેથી બોલો.
+- [ ] 15 મિનિટ: પોતાનો પરિચય અને એક જવાબ Record કરીને સાંભળો.
 
-If you have only two hours: 45 minutes IT, 45 minutes scenarios and 30 minutes spoken practice. Skip SQL until the higher-priority topics are comfortable.
+બે કલાક હોય તો 45 મિનિટ IT, 45 મિનિટ Scenarios અને 30 મિનિટ બોલવાની પ્રેક્ટિસ કરો. મુખ્ય વિષય આવડે પછી SQL કરો.
 
-## Quick reminders from the first two days
+## પહેલાંના બે દિવસનું ટૂંકું Revision
 
-- MIS turns checked records into information for decisions.
-- Workflow: collect → validate → reconcile → approve → submit → retain evidence → follow up.
-- Check period, ward, units, source evidence and denominator.
-- Missing data is not zero; do not invent records to meet a deadline.
-- SBM-U 2.0 has a garbage-free-city vision.
-- Source segregation means separating waste where it is generated.
-- Collection, generation and processing quantities are not automatically interchangeable.
-- A geotag or portal status alone is not proof that the full service was completed.
+- MIS તપાસેલા રેકોર્ડને નિર્ણય માટે ઉપયોગી માહિતી બનાવે છે.
+- Workflow: એકત્ર કરો → ચકાસો → તફાવત મેળવો → મંજૂરી → Submit → પુરાવા → Follow-up.
+- Period, Ward, Units, Source અને Denominator તપાસો.
+- Missing Data એ Zero નથી; Deadline માટે Records બનાવી ન નાખો.
+- SBM-U 2.0 ની દિશા કચરામુક્ત શહેર છે.
+- Source segregation એટલે કચરો બને ત્યાં જ અલગ કરવો.
+- Collection, Generation અને Processing ના આંકડા એકબીજાના બદલે આપોઆપ વાપરી શકાય નહીં.
+- Geotag અથવા Portal status એકલું આખી સેવા પૂર્ણ થઈ હોવાનો પુરાવો નથી.
 
-## Basic IT and office skills
+## Basic IT અને Office skills
 
-### Concepts in plain language
+### સરળ અર્થ સમજો
 
-- Hardware is the physical equipment; software is the operating system and applications.
-- RAM is working memory; storage keeps saved files. An SSD is storage, not RAM.
-- An operating system manages hardware and applications.
-- A LAN connects devices within a local area; the internet connects networks more widely.
-- An IP address identifies a network interface; DNS helps translate names to IP addresses.
-- A switch connects devices in a network; a router forwards traffic between networks.
-- HTTP is a web protocol; HTTPS adds encrypted transport using TLS. HTTPS alone does not prove a site is trustworthy.
-- A browser opens websites; a search engine helps find them.
-- A database stores structured records; a primary key uniquely identifies a row.
-- A PDF is useful for fixed-layout sharing; CSV stores plain tabular text and does not preserve workbook formulas, charts or multiple sheets.
+- **Hardware:** Computer, Keyboard, Printer જેવા ભૌતિક સાધનો. **Software:** Operating system અને Applications.
+- **RAM:** હાલમાં કામ કરતી વખતે વપરાતી Memory. **Storage:** Save કરેલી Files રાખે. SSD એ Storage છે, RAM નહીં.
+- **Operating system:** Hardware અને Applications નું સંચાલન કરે.
+- **LAN:** નાના સ્થાનિક વિસ્તારમાં Devices જોડે. Internet ઘણા Networks જોડે છે.
+- **IP address:** Network interface નું સરનામું. **DNS:** Website name ને IP address સાથે જોડવામાં મદદ કરે.
+- **Switch:** એક Network ના Devices જોડે. **Router:** અલગ Networks વચ્ચે Traffic મોકલે.
+- **HTTP:** Web protocol. **HTTPS:** TLS દ્વારા Encrypted transport ઉમેરે; માત્ર HTTPS હોવાથી Website વિશ્વસનીય છે એવું નથી.
+- **Browser:** Website ખોલે. **Search engine:** Website/માહિતી શોધવામાં મદદ કરે.
+- **Database:** વ્યવસ્થિત Records રાખે. **Primary key:** દરેક Row ને અલગ ઓળખ આપે.
+- **PDF:** સ્થિર Layout સાથે Document શેર કરવા ઉપયોગી. **CSV:** સાદો Tabular text; Workbook ના Formulas, Charts અને Multiple sheets જાળવતું નથી.
 
-### Troubleshooting method
+### Troubleshooting — સમસ્યા ઉકેલવાનો ક્રમ
 
-Ask what failed, when it began, what changed, who is affected, and the exact error. Check simple causes first. Try one reversible change at a time within your access level. Record what you tried, escalate with useful evidence if needed, and verify the service works afterwards.
+પહેલાં પૂછો: શું બંધ છે, ક્યારથી, શું બદલાયું, કોને અસર છે અને Exact error શું છે? સામાન્ય કારણથી શરૂઆત કરો. તમારી મંજૂરીની હદમાં એક સમયે એક પાછો ફેરવી શકાય એવો ફેરફાર કરો. કરેલી તપાસ નોંધો; જરૂર હોય તો પુરાવા સાથે Support/અધિકારીને જાણ કરો. અંતે સમસ્યા ખરેખર ઉકેલાઈ છે તે ચકાસો.
 
-**No internet:** check whether one website or every website fails; whether only one device or the whole office is affected; Wi-Fi/Ethernet connection; another permitted browser/site; network settings and the approved IT support route. Do not reset shared equipment during other staff's work without coordination.
+**Internet નથી ચાલતું:** એક Website કે બધી? એક Device કે આખી Office? Wi-Fi/Ethernet connection, બીજો મંજૂર Browser/Site અને Network settings તપાસો. મંજૂર Support ને જાણ કરો. બીજા Staff કામ કરતા હોય ત્યારે સંકલન વગર Shared router Reset ન કરો.
 
-**Printer not printing:** check power, paper, error display and connection; correct printer selection; offline status; stuck jobs; and a test page. If a driver or shared printer service needs attention, use authorised support. Verify with the user after recovery.
+**Printer Print નથી કરતું:** Power, Paper, Error display, Connection, યોગ્ય Printer selection, Offline status અને અટકેલી Print queue તપાસો. Test page કાઢો. Driver/Shared service માટે જરૂરી હોય તો અધિકૃત Support લો અને ફરી Print થાય છે તે જુઓ.
 
-**Slow computer:** check free space, unusually busy applications, startup workload and updates; save work before restart; use the approved security scan if appropriate. Avoid downloading unknown “speed booster” software.
+**Computer ધીમું છે:** Free storage, વધુ Resources લેતી Apps, Startup workload અને Updates જુઓ. Restart પહેલાં કામ Save કરો. યોગ્ય હોય તો મંજૂર Security scan કરો. અજાણ્યું “Speed booster” Software Download ન કરો.
 
-**Portal upload fails:** check the authorised URL, network, session, required fields, file type/size, readable evidence and exact error. Save the report and timestamped error evidence. Check whether submission already succeeded before retrying. Escalate before the deadline with the affected report and error details.
+**Portal Upload નિષ્ફળ:** અધિકૃત URL, Network, Session, Required fields, File type/size, વાંચી શકાય તેવા પુરાવા અને Exact error તપાસો. Report અને Error નો સમય સાથેનો પુરાવો Save કરો. ફરી Submit પહેલાં તપાસો કે અગાઉની Submission સફળ તો નથી થઈ. Deadline પહેલાં અધિકારી/Support ને વિગતો આપો.
 
-**Backup:** use the office's approved backup location and schedule, protected access and periodic restore checks. A successful copy is not proof of a working backup until recovery is checked.
+**Backup:** કચેરીના મંજૂર સ્થળ અને Schedule મુજબ Protected copy રાખો. Restore કરીને જુઓ; માત્ર Copy બની હોવું પૂરતું નથી.
 
-**Phishing:** verify unexpected senders and requests through a known contact route; do not share passwords/OTPs; report suspicious messages. Use official account recovery instead of asking another person for credentials.
+**Phishing:** અજાણ્યા Sender અથવા Password માંગતી Request ને જાણીતા સંપર્કથી Verify કરો. Password/OTP શેર ન કરો અને શંકાસ્પદ Message Report કરો. Account recovery માટે અધિકૃત રીત લો, બીજાનાં Credentials નહીં.
 
-### Office tasks to practise once
+### એક વખત જાતે Office tasks કરો
 
-- Word: write a short letter with date, subject and signature block; export to PDF.
-- Email: write a clear subject, brief summary, requested action and attachment reference; check recipients and attachments before sending.
-- PDF/scanning: ensure pages are upright, readable and complete; use approved tools to combine or resize documents when needed.
-- Presentation: explain one chart with its period, units, main issue and next action.
-- Gujarati typing: practise if it is part of your experience; describe your actual ability honestly.
+- **Word:** Date, Subject અને Signature સાથે નાનો Letter; પછી PDF Export.
+- **Email:** સ્પષ્ટ Subject, ટૂંકી Summary, કઈ Action જોઈએ અને Attachment reference. મોકલતાં પહેલાં Recipient/Attachment જુઓ.
+- **PDF/Scanning:** Pages સીધાં, વાંચી શકાય તેવાં અને પૂરાં છે તે તપાસો; Merge/Resize માટે મંજૂર Tools લો.
+- **Presentation:** એક Chart ની Date, Units, મુખ્ય બાબત અને Next action સમજાવો.
+- **Gujarati typing:** તમારી આવડત મુજબ પ્રેક્ટિસ કરો; actual speed/skill વિશે સાચું કહો.
 
-Illustrative email draft for practice only:
+Practice માટે Email નો નમૂનો:
 
 > Subject: Review requested — daily sanitation MIS — 09 October 2026
 >
-> Sir/Madam, please find the practice ward summary attached for review. The source records have been checked, and one missing evidence reference is marked pending. Please advise on the pending item before submission. Regards, [name].
+> સર/મેડમ, Review માટે Practice Ward summary જોડેલી છે. Source records તપાસેલા છે; એક Evidence reference ખૂટે છે અને Pending દર્શાવેલ છે. Submission પહેલાં આ બાબતે માર્ગદર્શન આપવા વિનંતી. આભાર, [નામ].
 
-## Basic SQL: optional supporting preparation
+## Basic SQL — વૈકલ્પિક વધારાની તૈયારી
 
-SQL queries structured data. Learn SELECT (retrieve), WHERE (filter), ORDER BY (sort), GROUP BY (group totals) and COUNT/SUM (aggregate). WHERE filters rows before aggregation; HAVING filters groups. Primary keys identify records and foreign keys link related records. Source for query clauses: [PostgreSQL SELECT documentation](https://www.postgresql.org/docs/current/sql-select.html); [basic querying tutorial](https://www.postgresql.org/docs/current/tutorial-select.html).
+SQL દ્વારા Structured data માંથી માહિતી મેળવી શકાય:
 
-The following are original examples for a hypothetical table `ward_daily` with fields `report_date`, `ward_id`, `waste_kg`, `processed_kg`, `complaints`. They are learning examples, not instructions to access a municipal database.
+- **SELECT:** કયા Columns જોઈએ.
+- **WHERE:** કઈ Rows જોઈએ તે શરત.
+- **ORDER BY:** પરિણામ ગોઠવવું.
+- **GROUP BY:** Ward જેવા આધાર પર જૂથ બનાવવું.
+- **SUM/COUNT:** સરવાળો/ગણતરી.
+- **HAVING:** Group બન્યા પછી શરત લગાવવી; WHERE પહેલાં Rows Filter કરે.
+- **Primary key:** Record ની અલગ ઓળખ. **Foreign key:** સંબંધિત Records/Tables જોડવાની Key.
+
+[PostgreSQL SELECT reference](https://www.postgresql.org/docs/current/sql-select.html), [Basic tutorial](https://www.postgresql.org/docs/current/tutorial-select.html).
+
+નીચે કાલ્પનિક `ward_daily` Table છે. Fields: `report_date`, `ward_id`, `waste_kg`, `processed_kg`, `complaints`. આ શીખવાના ઉદાહરણ છે, Municipal database માં પ્રવેશ કરવાની સૂચના નથી. Code અને Comments અંગ્રેજીમાં રાખ્યા છે.
 
 ```sql
 -- Retrieve selected columns for one reporting date.
@@ -94,61 +104,65 @@ GROUP BY report_date, ward_id
 HAVING COUNT(*) > 1;
 ```
 
-For the sample: the first query starts with Ward 2, eight complaints; the second gives Ward 1 **1020**, Ward 2 **1380**, Ward 3 **1210 kg**; the third returns no rows if the six practice records are entered once. Repeated keys are a signal to inspect the data, not automatic proof that a row should be deleted.
+Queries નો અર્થ અને જવાબ:
 
-If asked about JOIN: it combines related tables using matching keys, such as a ward master and daily records. INNER JOIN keeps matches; LEFT JOIN can retain daily records even when the master match is missing. You can explain the concept without claiming database administration experience.
+1. 9 ઓક્ટોબરની પસંદ કરેલી માહિતી, Complaints વધારે હોય તે પહેલાં. Ward 2 ની **8** Complaints પહેલા આવશે.
+2. Ward પ્રમાણે Waste નો સરવાળો: Ward 1 **1020**, Ward 2 **1380**, Ward 3 **1210 kg**.
+3. સમાન Date + Ward એકથી વધુ વખત હોય તો બતાવે. છ Rows એક જ વખત દાખલ હોય તો કોઈ Row નહીં મળે. Repeated key દેખાય એટલે તપાસો; તરત Delete કરવાની સાબિતી નથી.
 
-## Today's scenario questions and answers
+**JOIN** સંબંધિત Tables ને Matching keys થી જોડે, જેમ કે Ward master અને Daily records. **INNER JOIN** મેળ હોય તે Records રાખે; **LEFT JOIN** જમણી બાજુ Match ન હોય ત્યારે પણ ડાબી બાજુના Records રાખી શકે. સમજ સમજાવો; Database administration નો ન હોય તે અનુભવ ન કહો.
 
-Use this response pattern: identify the problem → check facts → act within authority → document/escalate → verify the result.
+## આજના Scenario પ્રશ્નો અને જવાબો
 
-**18. The portal is down near a deadline.** Save the validated report, record the error and time, check scope/connectivity, notify the supervisor and authorised support, and use only an approved alternative if available. Preserve evidence and acknowledgement; do not backdate submission.
+જવાબનો ક્રમ: **સમસ્યા જાણો → Facts તપાસો → મંજૂરીની હદમાં કામ કરો → નોંધો/જાણ કરો → પરિણામ ચકાસો.**
 
-**19. Someone asks you to inflate a figure.** Explain that figures need source evidence. Present the actual records and discrepancy, seek clarification through the supervisory route and keep an appropriate record. Do not fabricate data.
+**18. Deadline નજીક Portal બંધ હોય તો?** “ચકાસેલો Report Save કરીશ, Error અને સમય નોંધું, Connection/અસર તપાસું અને Supervisor તથા Support ને જાણ કરીશ. મંજૂર વિકલ્પ હોય તો જ વાપરીશ. પુરાવો અને Acknowledgement સાચવીશ; Submission ને ખોટી જૂની તારીખ નહીં આપું.”
 
-**20. A citizen complaint has no clear location.** Politely request the minimum details needed, record the complaint, route it to the responsible staff and track the next action under the prescribed process.
+**19. આંકડા વધારીને લખવા કહે તો?** “Source proof જરૂરી છે તે સમજાવીશ. સાચા રેકોર્ડ અને તફાવત રજૂ કરી અધિકારી પાસેથી સ્પષ્ટતા લઈશ અને યોગ્ય નોંધ રાખીશ. બનાવટી Data નહીં લખું.”
 
-**21. A complaint is marked resolved but the citizen disagrees.** Review closure evidence, coordinate verification, and reopen or escalate according to the system's process. A status field alone is not proof of resolution.
+**20. ફરિયાદમાં સ્થળ સ્પષ્ટ ન હોય તો?** “નમ્રતાથી જરૂરી વિગતો પૂછીશ, ફરિયાદ નોંધું અને જવાબદાર Staff ને મોકલીશ. નિર્ધારિત પ્રક્રિયા મુજબ આગળની Action નું Follow-up કરીશ.”
 
-**22. How would you protect municipal data?** Use authorised accounts and storage, appropriate access, protected backups and verified recipients. Do not share credentials or unnecessary citizen information.
+**21. ફરિયાદ Resolved બતાવે પણ નાગરિક સહમત ન હોય તો?** “Closure evidence તપાસીશ, સ્થળ/પરિણામની ચકાસણી માટે સંકલન કરીશ અને પ્રક્રિયા મુજબ Reopen અથવા Escalate કરીશ. માત્ર Status field ને પુરાવો નહીં માનું.”
 
-**23. What is a backup?** A protected recoverable copy of data. I would follow the approved backup schedule and test restoration, not just check that a copy exists.
+**22. Municipal data સુરક્ષિત કેવી રીતે રાખશો?** “અધિકૃત Account/Storage, જરૂરી Access, Protected backup અને સાચા Recipients વાપરીશ. Credentials કે બિનજરૂરી Citizen information શેર નહીં કરું.”
 
-**24. The office printer stops working.** Check power, paper, errors, connection, printer selection and queue; try a test print; escalate driver/shared-service issues within the authorised process and confirm recovery.
+**23. Backup શું છે?** “Data ની સુરક્ષિત અને ફરી મેળવી શકાય તેવી નકલ. મંજૂર Schedule અનુસરીશ અને Restore test કરીશ; Copy છે એટલું જ પૂરતું નથી.”
 
-**25. Staff are late sending records.** Use a simple standard template and clear deadline, identify the reason, send reminders, flag pending records and escalate early. Never invent the missing entries to finish the report.
+**24. Office Printer બંધ પડે તો?** “Power, Paper, Error, Connection, Printer selection અને Queue તપાસીશ. Test print કરીશ; Driver/Shared service માટે અધિકૃત Support લઈશ અને પછી ફરી કામ થાય છે તે ચકાસીશ.”
 
-**26. How will you teach staff a reporting format?** Demonstrate a short example, explain required fields and common errors, let them practise, then provide a brief checklist and follow-up support.
+**25. Staff Records મોડાં આપે તો?** “સરળ Template અને Deadline સ્પષ્ટ રાખીશ. મોડું થવાનું કારણ જાણી Reminder આપીશ, Missing records Pending બતાવીશ અને વહેલી જાણ કરીશ. Report પૂરો કરવા Entries બનાવી નહીં નાખું.”
 
-**27. Two urgent tasks arrive together.** Clarify deadlines and impact, agree priorities with the supervisor, divide the work into steps and communicate any risk early. Keep accuracy checks even under time pressure.
+**26. Staff ને Reporting format કેવી રીતે શીખવશો?** “નાનું Example બતાવી Required fields અને સામાન્ય ભૂલો સમજાવીશ. જાતે પ્રેક્ટિસ કરાવી ટૂંકી Checklist આપીશ અને Follow-up મદદ કરીશ.”
 
-**28. How can technology improve cleanliness work?** Consistent ward records and location-linked complaints can help identify repeat gaps and track actions. A simple reliable process should come before proposing new software.
+**27. બે તાત્કાલિક કામ સાથે આવે તો?** “Deadline અને અસર જાણી Supervisor સાથે Priority નક્કી કરીશ. કામ પગલાંમાં વહેંચી જોખમની વહેલી જાણ કરીશ. ઉતાવળમાં Accuracy checks નહીં છોડું.”
 
-**29. What would you do in your first month?** Learn current reporting requirements, access controls and source records; check missing data and evidence; standardise templates with approval; establish review, submission and follow-up routines; share the main issues with the officer.
+**28. Technology થી સફાઈ કામમાં કેવી રીતે સુધારો?** “સુસંગત Ward records અને Location-linked complaints થી વારંવાર રહેતી ખામી અને આગળની Action જાણી શકાય. નવું Software સૂચવતાં પહેલાં સરળ વિશ્વસનીય પ્રક્રિયા ગોઠવીશ.”
 
-**30. You discover an error after submission.** Tell the designated officer promptly, document the error and supported correction, use the approved correction process and retain the revision trail. Investigate why it happened to prevent repetition.
+**29. પહેલા મહિને શું કરશો?** “Reporting requirements, અધિકૃત Access અને Source records જાણીશ. Missing data/Evidence તપાસી મંજૂરીથી Templates ગોઠવીશ. Review, Submission અને Follow-up નો ક્રમ બનાવી મુખ્ય મુદ્દા અધિકારી સમક્ષ મૂકીશ.”
 
-## Spoken practice
+**30. Submit પછી Error જણાય તો?** “જવાબદાર અધિકારીને તરત જાણ કરીશ. Error અને પુરાવા આધારિત Correction નોંધું; મંજૂર પ્રક્રિયાથી સુધારો કરી Revision trail સાચવીશ. ફરી ભૂલ ન થાય માટે કારણ તપાસીશ.”
 
-1. Explain a printer failure in 60 seconds.
-2. Explain a portal failure before a deadline in 90 seconds.
-3. Explain a mismatch between field records and uploaded figures.
-4. Explain what you would do if asked to inflate a figure.
-5. Describe your first month in the job.
-6. Give one genuine example of teamwork or troubleshooting.
+## મોટેથી બોલવાની પ્રેક્ટિસ
 
-## End-of-day check
+1. Printer failure નો જવાબ — 60 સેકન્ડ.
+2. Deadline પહેલાં Portal failure — 90 સેકન્ડ.
+3. Field અને Upload figures ના તફાવતનો જવાબ.
+4. આંકડા વધારવાનું કહે તો જવાબ.
+5. પહેલા મહિને તમે શું કરશો.
+6. Teamwork અથવા Troubleshooting નું એક સાચું ઉદાહરણ.
 
-- [ ] I can troubleshoot step by step.
-- [ ] I can explain how to handle a failed portal submission.
-- [ ] I can explain data protection and recoverable backups.
-- [ ] I can explain complaint follow-up and verification.
-- [ ] I can answer a difficult scenario without inventing facts.
+## દિવસના અંતે ચકાસો
 
-Scenario I can explain confidently:
-One real experience example:
-Three weak answers to fix tomorrow:
+- [ ] પગલું-પગલું Troubleshooting સમજાવી શકું છું.
+- [ ] Failed submission વખતે શું કરવું તે સમજું છું.
+- [ ] Data protection અને Recoverable backup સમજું છું.
+- [ ] Complaint follow-up અને Verification સમજાવી શકું છું.
+- [ ] Facts બનાવ્યા વગર મુશ્કેલ Scenario નો જવાબ આપી શકું છું.
 
-Next: [12 October — mock interview and final preparation](./2026-10-12_Day_4_Mock_and_Final_Preparation.md).
+વિશ્વાસથી સમજાવી શકું તે Scenario:
+સાચા અનુભવનું એક ઉદાહરણ:
+આવતીકાલે સુધારવા તે ત્રણ જવાબ:
 
-Preparation material organised from the [complete researched guide](./Interview_Preparation_09_to_13_October_2026.md). Suggested topics and questions are not an official interview syllabus.
+આગળ: [12 ઓક્ટોબર — Mock અને અંતિમ તૈયારી](./2026-10-12_Day_4_Mock_and_Final_Preparation.md).
+
+આ સામગ્રી [સંપૂર્ણ સંદર્ભ Guide](./Interview_Preparation_09_to_13_October_2026.md) પરથી ગોઠવેલી છે. સૂચવેલા વિષયો અને પ્રશ્નો તૈયારી માટે છે; આ અધિકૃત Interview syllabus નથી.

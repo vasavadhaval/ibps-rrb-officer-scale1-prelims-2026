@@ -1,158 +1,158 @@
-# 12 October 2026 — Day 4: mock interviews and final preparation
+# 12 ઓક્ટોબર 2026 — દિવસ 4: Mock interview અને અંતિમ તૈયારી
 
-Today’s goal: speak clearly, demonstrate your skills and get your documents and travel ready.
+આજનું લક્ષ્ય: સ્પષ્ટ જવાબ આપવો, પોતાની આવડત બતાવવી અને દસ્તાવેજો તથા મુસાફરી તૈયાર રાખવી.
 
-## Study order — approximately three and a half hours
+## અભ્યાસનો ક્રમ — આશરે સાડા ત્રણ કલાક
 
-- [ ] 30 minutes: read the revision sheet below.
-- [ ] 45 minutes: complete mock interview 1 and score it.
-- [ ] 45 minutes: fix your three weakest areas using the earlier daily files.
-- [ ] 30 minutes: complete mock interview 2.
-- [ ] 30 minutes: assemble documents and confirm the route and reporting arrangements.
-- [ ] 30 minutes: revise your introduction and short answers, then finish for the day.
+- [ ] 30 મિનિટ: નીચેનું Revision વાંચો.
+- [ ] 45 મિનિટ: પહેલો Mock interview કરો અને પોતાને Score આપો.
+- [ ] 45 મિનિટ: પહેલાંની Files થી ત્રણ નબળી બાબતો સુધારો.
+- [ ] 30 મિનિટ: બીજો Mock interview કરો.
+- [ ] 30 મિનિટ: દસ્તાવેજો ગોઠવો અને Route/Reporting સમય જાણો.
+- [ ] 30 મિનિટ: પરિચય અને ટૂંકા જવાબો ફરી બોલો; પછી અભ્યાસ પૂરો કરો.
 
-If you have only two hours: 45 minutes mock, 30 minutes corrections, 30 minutes documents and 15 minutes revision. Avoid starting a large new topic tonight.
+બે કલાક હોય તો 45 મિનિટ Mock, 30 મિનિટ સુધારા, 30 મિનિટ દસ્તાવેજો અને 15 મિનિટ Revision. આજે રાત્રે મોટો નવો વિષય શરૂ ન કરો; આરામ માટે સમય રાખો.
 
-## Last-minute revision sheet
+## છેલ્લી ઘડીનું Revision
 
-Read this on 12 October evening and 13 October morning:
+12 ઓક્ટોબરની સાંજે અને 13 ઓક્ટોબરની સવારે વાંચો:
 
-- MIS turns checked records into information for decisions.
-- Role: collect, validate, report, approved upload, evidence, coordination and assigned IT support.
-- Workflow: collect → validate → reconcile → approve → submit → retain evidence → follow up.
-- Check the period, scope, unit, source and denominator.
-- Missing is not zero; repeated wards on different days are not duplicates.
-- Overall percentage = combined numerator / combined denominator.
-- SUMIFS: sum with conditions; PivotTable: summarise; lookup: match a master record.
-- Refresh PivotTables and check numeric fields use the intended aggregation.
-- SBM-U 2.0: garbage-free-city vision; understand collection, segregation and sanitation evidence.
-- Portal failure: save work, document, diagnose, notify and follow approved alternatives.
-- Data discrepancy: verify source, record correction and obtain appropriate review.
-- Complaint closure needs verification; follow the prescribed process and timelines.
-- IT: identify scope, check basics, make controlled changes, escalate and verify recovery.
-- Use authorised accounts/storage; never share OTPs/passwords or fabricate figures.
-- Introduction: name, education, genuine experience, demonstrable skills, motivation.
-- Give one real example instead of several unsupported claims.
-- Speak clearly; pause if needed; ask for clarification when a question is unclear.
+- **MIS:** તપાસેલા રેકોર્ડમાંથી નિર્ણય માટે ઉપયોગી માહિતી બનાવે છે.
+- કામ: Data એકત્ર કરવો, તપાસવો, Report બનાવવો, મંજૂરી પછી Upload કરવું, પુરાવા સાચવવા અને સંકલન કરવું.
+- **Workflow:** એકત્ર કરો → ચકાસો → તફાવત મેળવો → મંજૂરી લો → Submit કરો → પુરાવા સાચવો → Follow-up કરો.
+- સમયગાળો, વિસ્તાર, Units, Source અને Denominator તપાસો.
+- **Missing ≠ Zero.** અલગ તારીખે એક જ Ward દેખાય તો તે આપોઆપ Duplicate નથી.
+- કુલ ટકાવારી = કુલ સંબંધિત સંખ્યા / કુલ આધાર સંખ્યા. Percentage format હોય તો ફરી ×100 ન કરો.
+- **SUMIFS:** શરતો પ્રમાણે સરવાળો; **PivotTable:** સારાંશ; **Lookup:** Master list સાથે મેળ.
+- Data બદલાય પછી PivotTable Refresh કરો અને Sum/Count યોગ્ય છે કે નહીં જુઓ.
+- **SBM-U 2.0:** કચરામુક્ત શહેરની દિશામાં કામ; Collection, Segregation અને Sanitation ના પુરાવા સમજો.
+- Portal બંધ હોય: કામ Save કરો, Error નોંધો, તપાસો, અધિકારીને જાણ કરો અને મંજૂર વિકલ્પ અનુસરો.
+- આંકડામાં તફાવત હોય: Source તપાસો, સુધારો નોંધો અને જરૂરી Review કરાવો.
+- ફરિયાદ બંધ કરતાં ઉકેલનો પુરાવો તપાસો; નિર્ધારિત પ્રક્રિયા અને સમયમર્યાદા અનુસરો.
+- IT સમસ્યા: અસર કોને છે તે જાણો, મૂળભૂત તપાસ કરો, નિયંત્રિત ફેરફાર કરો, જરૂર પડે તો Support ને જાણ કરો અને પરિણામ ચકાસો.
+- અધિકૃત Account/Storage વાપરો. Password/OTP શેર ન કરો અને આંકડા બનાવટી ન લખો.
+- પરિચય: નામ, અભ્યાસ, સાચો અનુભવ, બતાવી શકાય તેવી Skills અને આ પદ પસંદ કરવાનું કારણ.
+- મોટા દાવા કરતાં એક સાચું ઉદાહરણ વધુ ઉપયોગી છે.
+- ધીમે અને સ્પષ્ટ બોલો; પ્રશ્ન ન સમજાય તો ફરી સમજાવવા વિનંતી કરો.
 
-Gujarati sentence to remember: “હું ડેટાની ચકાસણી કરીને, જરૂરી મંજૂરી બાદ જ પોર્ટલ પર અપડેટ કરીશ અને તેની નોંધ તથા પુરાવા સાચવીશ.”
+યાદ રાખવાનું વાક્ય: “હું Data ની ચકાસણી કરીને, જરૂરી મંજૂરી બાદ જ Portal પર Update કરીશ અને તેની નોંધ તથા પુરાવા સાચવીશ.”
 
-## Prepare your personal answers
+## પોતાનો પરિચય અને વ્યક્તિગત જવાબો
 
-### Your one-minute introduction
+### એક મિનિટનો પરિચય
 
-Fill this in today:
+ખાલી જગ્યાઓમાં તમારી સાચી વિગતો લખો. પછી વાંચ્યા વગર ત્રણ વખત બોલો:
 
-“Good morning. My name is [name], and I am from [place]. I completed [degree] from [institution] in [year]. I have [actual duration] of experience in [actual organisation/work]. My main responsibilities were [two relevant tasks]. I am comfortable with [skills you can demonstrate]. I am interested in the City Manager MIS/IT role because I want to use my data and computer skills for accurate municipal reporting and public service. I am ready to learn the required systems and coordinate with field staff.”
+“નમસ્તે સર/મેડમ. મારું નામ [નામ] છે અને હું [સ્થળ]નો રહેવાસી છું. મેં [વર્ષ]માં [સંસ્થા]માંથી [ડિગ્રી] પૂર્ણ કરી છે. મને [સાચો સમયગાળો]નો [કામ/સંસ્થા]માં અનુભવ છે. મારા કામમાં મુખ્યત્વે [બે જવાબદારીઓ]નો સમાવેશ થતો હતો. મને [જે આવડત બતાવી શકો તે]માં કામ કરવાની આવડત છે. હું મારા Data અને Computer કૌશલ્યનો ઉપયોગ નગરપાલિકાના સાચા અને સમયસર Reporting માટે કરવા ઇચ્છું છું. જરૂરી Portal અને પ્રક્રિયા શીખવા તથા ટીમ સાથે સંકલન કરવા તૈયાર છું.”
 
-Gujarati version:
+અંગ્રેજીમાં જવાબ આપવો હોય તો આ ટૂંકો નમૂનો રાખો:
 
-“નમસ્તે સર/મેડમ. મારું નામ [નામ] છે અને હું [સ્થળ]નો રહેવાસી છું. મેં [વર્ષ]માં [સંસ્થા]માંથી [ડિગ્રી] પૂર્ણ કરી છે. મને [સાચો સમયગાળો]નો [કામ/સંસ્થા]માં અનુભવ છે. મારા કામમાં મુખ્યત્વે [બે જવાબદારીઓ]નો સમાવેશ થતો હતો. મને [સાચી આવડત]માં કામ કરવાની આવડત છે. હું મારા ડેટા અને કમ્પ્યુટર કૌશલ્યનો ઉપયોગ નગરપાલિકાના સાચા અને સમયસર રિપોર્ટિંગ માટે કરવા ઇચ્છું છું. જરૂરી પોર્ટલ અને પ્રક્રિયા શીખવા તથા ટીમ સાથે સંકલન કરવા તૈયાર છું.”
+“Good morning. My name is [name]. I completed [degree] from [institution]. I have [actual duration] of experience in [actual work]. My main responsibilities were [two tasks]. I am interested in using my IT skills for accurate municipal reporting and public service.”
 
-If you do not have the advertised year of post-degree experience, do not replace the experience line with invented work. Confirm eligibility with the office and explain your genuine projects, internships or work as such. A practice exercise does not establish employment experience.
+જાહેરાત મુજબ ડિગ્રી પછીનો જરૂરી અનુભવ ન હોય તો કચેરી સાથે પાત્રતા સ્પષ્ટ કરો. સાચા Projects, Internship અને નોકરીને તે પ્રમાણે જ ઓળખાવો. Practice exercise ને નોકરીનો અનુભવ ન કહો.
 
-### Prepare three true examples
+### ત્રણ સાચા ઉદાહરણો તૈયાર કરો — STAR method
 
-For each, write four sentences: situation, your responsibility, what you did, result. This is the STAR method: Situation, Task, Action, Result.
+દરેક ઉદાહરણ માટે ચાર બાબતો કહો: **Situation** — પરિસ્થિતિ; **Task** — તમારી જવાબદારી; **Action** — તમે લીધેલાં પગલાં; **Result** — પરિણામ.
 
-1. A spreadsheet/report or data task.
-2. A computer/technical issue you helped resolve.
-3. A deadline or teamwork problem.
+1. Data, Spreadsheet અથવા Report નું કામ.
+2. તમે ઉકેલેલી Computer અથવા Technical સમસ્યા.
+3. Deadline અથવા ટીમ સાથે કામ કરવાનો અનુભવ.
 
-Template: “We received [real records/problem]. I was responsible for [your actual task]. I checked [steps] and coordinated with [people]. The result was [true result].” If you do not know a numerical improvement, use a truthful qualitative result. Do not invent percentages.
+નમૂનો: “અમને [સાચી સમસ્યા/રેકોર્ડ] મળ્યા. મારી જવાબદારી [તમારું કામ] હતી. મેં [પગલાં] લીધાં અને [વ્યક્તિ/ટીમ] સાથે સંકલન કર્યું. પરિણામે [સાચું પરિણામ] મળ્યું.”
 
-### Common HR answers
+આંકડામાં સુધારો માપ્યો ન હોય તો બનાવટી ટકા ન કહો. જે ખરેખર થયું તે સરળ રીતે સમજાવો.
 
-**Why this post?** “It combines data handling, IT and coordination. I am interested in using accurate information to support municipal services.” Add one true experience example.
+### સામાન્ય HR પ્રશ્નો
 
-**Why should we select you?** “I can contribute [two skills I can demonstrate], work carefully with records and follow deadlines. For example, [real example]. I am also willing to learn the required municipal systems.”
+**આ પદ કેમ પસંદ કર્યું?** “આ પદમાં Data handling, IT અને સંકલનનો ઉપયોગ થાય છે. હું સાચી માહિતી દ્વારા નગરપાલિકાની સેવાઓમાં યોગદાન આપવા ઇચ્છું છું.” સાથે તમારું એક સાચું ઉદાહરણ આપો.
 
-**Strength?** Pick one relevant trait and evidence: accuracy, organised work, learning or clear communication. Avoid unsupported claims such as “I am expert in everything.”
+**અમે તમને કેમ પસંદ કરીએ?** “મને [બતાવી શકાય તેવી બે આવડત] આવે છે. હું રેકોર્ડ ધ્યાનથી તપાસીને સમયસર કામ કરી શકું છું. ઉદાહરણ તરીકે [સાચો અનુભવ]. જરૂરી Municipal systems શીખવા પણ તૈયાર છું.”
 
-**Weakness?** Name a manageable, true weakness and what you do about it: “I previously spent too long formatting reports. I now validate the data first and use a standard layout to meet deadlines.” Use this only if true.
+**તમારી Strength શું છે?** ચોકસાઈ, વ્યવસ્થિત કામ, શીખવાની તૈયારી અથવા સ્પષ્ટ વાતચીતમાંથી સાચી બાબત પસંદ કરો અને પુરાવો આપો. “મને બધું આવે છે” ન કહો.
 
-**You lack municipal experience?** “I have not worked in a municipality yet. My relevant experience is [actual work]. I understand the importance of source records, approval and deadlines, and I will learn the local process under guidance.”
+**Weakness શું છે?** સાચી અને સુધારી શકાય તેવી બાબત કહો. ઉદાહરણ, માત્ર સાચું હોય તો: “પહેલાં Report formatting માં વધુ સમય જતો હતો. હવે પહેલાં Data ચકાસું છું અને Standard format વાપરું છું.”
 
-**If you do not know an answer:** “I have not worked with that yet. My current understanding is [what you genuinely know]. I would confirm the approved process before acting.”
+**નગરપાલિકાનો અનુભવ નથી તો?** “હજુ નગરપાલિકામાં કામ કર્યું નથી. મારો સંબંધિત અનુભવ [સાચું કામ] છે. Source records, મંજૂરી અને Deadline નું મહત્વ સમજું છું. માર્ગદર્શન હેઠળ સ્થાનિક પ્રક્રિયા શીખીશ.”
 
-**Availability/contract/pay:** give your real availability. The notice lists ₹30,000 fixed pay and an 11-month contract; read and clarify the terms rather than promising conditions you have not understood.
+**જવાબ ન આવડે તો?** “આ બાબત પર હજી કામ કર્યું નથી. મારી હાલની સમજ [જે ખરેખર જાણો તે] છે. કામ કરતાં પહેલાં અધિકૃત પ્રક્રિયા જાણી લઈશ.”
 
-## Personal interview questions
+**Joining, પગાર અને કરાર:** સાચી ઉપલબ્ધતા જણાવો. જાહેરાતમાં ₹30,000 fixed માસિક પગાર અને 11 મહિનાનો કરાર દર્શાવેલ છે. શરતો સમજીને જવાબ આપો.
 
-**31. Tell us about yourself.** Use your introduction template above; keep it relevant and approximately one minute.
+## વ્યક્તિગત Interview પ્રશ્નો
 
-**32. Describe your experience.** Give exact dates, responsibilities, tools and one real example. Be ready to show supporting certificates.
+**31. તમારો પરિચય આપો.** ઉપરનો નમૂનો વાપરો. પદ સાથે સંબંધિત બાબતો આશરે એક મિનિટમાં કહો.
 
-**33. Why should we select you?** Link two demonstrable skills to the work and give evidence, not just adjectives.
+**32. તમારો Experience સમજાવો.** ચોક્કસ તારીખો, જવાબદારીઓ, Tools અને એક સાચું ઉદાહરણ કહો. Supporting certificates બતાવવા તૈયાર રહો.
 
-**34. Can you work with field staff and officers?** Describe a real coordination example. Explain that clear formats, respectful follow-up and accurate records help teams work together.
+**33. અમે તમને કેમ પસંદ કરીએ?** બે ખરેખર બતાવી શકાય તેવી Skills ને પદના કામ સાથે જોડો. ફક્ત “હું મહેનતુ છું” કહેવા કરતાં અનુભવનો પુરાવો આપો.
 
-**35. What if you do not know the software?** Be honest about current knowledge and explain how you learn: approved guidance, supervised practice, a small checked task and feedback.
+**34. Field staff અને અધિકારીઓ સાથે કામ કરી શકશો?** સાચા Coordination નું ઉદાહરણ આપો. સરળ Formats, નમ્ર Follow-up અને સાચા Records થી ટીમનું કામ સુધરે છે તે સમજાવો.
 
-**36. Do you have any questions for us?** Ask one useful question: “What are the main MIS reports and deadlines expected in the first month?” or “Which portals and reporting formats does this role use?”
+**35. Software ન આવડતું હોય તો?** હાલની આવડત વિશે સાચું કહો. અધિકૃત Guidance, દેખરેખ હેઠળ Practice, નાનું Checked task અને Feedback થી શીખવાની રીત સમજાવો.
 
-## Your 22-minute mock interview
+**36. અમને કંઈ પૂછવું છે?** એક ઉપયોગી પ્રશ્ન પૂછો: “પહેલા મહિને કયા મુખ્ય MIS reports અને Deadlines રહેશે?” અથવા “આ પદમાં કયા Portals અને Reporting formats વપરાય છે?”
 
-Ask a friend to read these, or record yourself:
+## 22 મિનિટનો Mock interview
 
-1. Introduce yourself — 1 minute.
-2. Explain this job and MIS — 2 minutes.
-3. Describe a true experience/project — 2 minutes.
-4. Explain SBM and segregation — 2 minutes.
-5. Demonstrate coverage, SUMIFS or a PivotTable — 4 minutes.
-6. Resolve a portal failure near the deadline — 2 minutes.
-7. Explain mismatched figures and pressure to alter data — 2 minutes.
-8. Describe IT troubleshooting or complaints handling — 2 minutes.
-9. Explain your first month and ask one relevant question — 3 minutes.
+મિત્રને પ્રશ્નો પૂછવા કહો અથવા પોતાનો Audio Record કરો:
 
-Score yourself 0, 1 or 2 for each of five areas: accurate answers; clear short speech; genuine examples; practical Excel ability; sensible process/evidence. Total is out of 10. This is a personal practice tool, not the employer's marking system.
+1. પોતાનો પરિચય — **1 મિનિટ**.
+2. MIS અને આ પદનું કામ — **2 મિનિટ**.
+3. સાચો Experience/Project — **2 મિનિટ**.
+4. SBM અને Segregation — **2 મિનિટ**.
+5. Coverage, SUMIFS અથવા PivotTable બતાવો — **4 મિનિટ**.
+6. Deadline નજીક Portal failure — **2 મિનિટ**.
+7. આંકડાનો તફાવત અને ખોટા આંકડા લખવાનું દબાણ — **2 મિનિટ**.
+8. IT Troubleshooting અથવા Complaint handling — **2 મિનિટ**.
+9. પહેલો મહિનો અને Panel ને એક પ્રશ્ન — **3 મિનિટ**.
 
-After the first mock, write only three corrections. Example: “Introduction too long; mixed collection with generation; forgot approval before upload.” Fix those and repeat the mock. Speaking aloud matters more than silently rereading everything.
+પાંચ બાબતોને **0, 1 અથવા 2** Score આપો: જવાબની ચોકસાઈ, ટૂંકું સ્પષ્ટ બોલવું, સાચાં ઉદાહરણો, Practical Excel અને યોગ્ય પ્રક્રિયા/પુરાવા. કુલ **10 માંથી**. આ પોતાની Practice માટે છે, ભરતીની Official marking system નથી.
 
-## How to fix your three weakest areas
+પહેલા Mock પછી માત્ર **ત્રણ સુધારા** લખો. ઉદાહરણ: “પરિચય લાંબો હતો; Collection/Generation ભેળવ્યાં; Upload પહેલાં મંજૂરી ભૂલ્યો.” સુધારો અને ફરી Mock કરો. માત્ર મનમાં વાંચવા કરતાં મોટેથી બોલવું વધુ જરૂરી છે.
 
-Choose the relevant file and practise the task or answer once more:
+## ત્રણ નબળા વિષયો કેવી રીતે સુધારવા?
 
-- [9 October — role, SBM and introduction](./2026-10-09_Day_1_MIS_and_Introduction.md).
-- [10 October — Excel, reporting and answer key](./2026-10-10_Day_2_Excel_and_Data_Quality.md).
-- [11 October — IT, portals and scenario answers](./2026-10-11_Day_3_IT_and_Scenarios.md).
+- [9 ઓક્ટોબર — MIS, SBM અને પરિચય](./2026-10-09_Day_1_MIS_and_Introduction.md).
+- [10 ઓક્ટોબર — Excel, Reporting અને Answer key](./2026-10-10_Day_2_Excel_and_Data_Quality.md).
+- [11 ઓક્ટોબર — IT, Portal અને Scenarios](./2026-10-11_Day_3_IT_and_Scenarios.md).
 
-Do not try to memorise every sentence. Keep the facts correct and explain the process in your own words.
+જે જવાબ/Task માં ભૂલ થઈ હોય તે ફરી કરો. દરેક વાક્ય ગોખવાને બદલે Facts સાચા રાખો અને તમારી ભાષામાં પ્રક્રિયા સમજાવો.
 
-## Document and travel checklist
+## દસ્તાવેજો અને મુસાફરીની Checklist
 
-The notice asks you to attend with documents and refers to resume, education and experience verification. The additional items below are sensible preparation; the exact mandatory list must be confirmed with the office.
+જાહેરાતમાં Resume, અભ્યાસ અને અનુભવના દસ્તાવેજોની ચકાસણીનો ઉલ્લેખ છે. નીચેની વધારાની વસ્તુઓ તૈયારી માટે છે; ચોક્કસ ફરજિયાત યાદી કચેરી સાથે જાણી લો.
 
-- [ ] Updated CV, preferably two copies.
-- [ ] Degree/provisional degree and relevant marksheets: originals plus self-attested copies as requested.
-- [ ] Experience certificates with dates, organisation and role; supporting documents if required.
-- [ ] Government photo ID and a copy.
-- [ ] Two recent passport-size photographs as a precaution.
-- [ ] Any prescribed form and applicable category/other certificates if requested.
-- [ ] Advertisement copy, pen and a small notebook.
-- [ ] Relevant non-confidential work sample, only if permitted and useful.
-- [ ] Verified reporting/registration time and precise venue.
-- [ ] Route, travel time and a backup travel option.
+- [ ] Updated CV — શક્ય હોય તો બે નકલ.
+- [ ] Degree/Provisional degree અને Marksheet — અસલ તથા માંગ મુજબ Self-attested નકલ.
+- [ ] Experience certificate — તારીખ, સંસ્થા અને પદ દર્શાવતું; જરૂરી વધારાના પુરાવા.
+- [ ] સરકારી Photo ID અને નકલ.
+- [ ] સાવચેતીરૂપે બે Passport-size ફોટા.
+- [ ] માંગેલ Form તથા લાગુ પડતાં Category/અન્ય પ્રમાણપત્રો.
+- [ ] જાહેરાતની નકલ, Pen અને નાની Notebook.
+- [ ] જરૂરી અને મંજૂર હોય તો ગોપનીય માહિતી વગરનું Work sample.
+- [ ] Reporting/Registration સમય અને ચોક્કસ સ્થળની ખાતરી.
+- [ ] મુસાફરીનો Route, લાગતો સમય અને વૈકલ્પિક વ્યવસ્થા.
 
-Arrange originals separately from copies. Check that names, degree dates and experience dates agree across documents. Do not hand over originals permanently without a clear authorised process and receipt. Do not carry confidential past-employer or citizen records as portfolio samples.
+અસલ અને નકલો અલગ રાખો. નામ, Degree dates અને Experience dates સરખાં છે કે નહીં તપાસો. અસલ દસ્તાવેજ કાયમી આપતાં પહેલાં અધિકૃત પ્રક્રિયા અને Receipt સ્પષ્ટ કરો. જૂની કંપની અથવા નાગરિકોના ગોપનીય રેકોર્ડ Work sample તરીકે ન લઈ જાઓ.
 
-If showing the spreadsheet from this guide, say clearly: **“This is a practice example I prepared for the interview.”** It is not your previous employment work or Rajpipla data.
+આ Guide ની Excel sheet બતાવો તો કહો: **“આ ઇન્ટરવ્યૂ માટે બનાવેલું Practice example છે.”** તે અગાઉની નોકરીનું કામ કે રાજપીપળાનો સાચો Data નથી.
 
-## End-of-day check
+## દિવસના અંતે ચકાસો
 
-- [ ] My CV agrees with my certificates and experience dates.
-- [ ] I can introduce myself in approximately 60 seconds.
-- [ ] I completed two mock interviews aloud.
-- [ ] I can explain my Excel practice report.
-- [ ] My document folder, clothes and travel plan are ready.
-- [ ] I have confirmed registration arrangements.
+- [ ] CV ની માહિતી Certificate અને Experience dates સાથે મળે છે.
+- [ ] આશરે 60 સેકન્ડમાં પરિચય આપી શકું છું.
+- [ ] બે Mock interviews મોટેથી કર્યા છે.
+- [ ] Excel Practice report સમજાવી શકું છું.
+- [ ] Document folder, કપડાં અને મુસાફરી તૈયાર છે.
+- [ ] Registration arrangements જાણી લીધાં છે.
 
-Mock 1 score /10:
-Three corrections:
-Mock 2 score /10:
-Documents ready:
-Travel ready:
+Mock 1 Score /10:
+ત્રણ સુધારા:
+Mock 2 Score /10:
+દસ્તાવેજો તૈયાર:
+મુસાફરી તૈયાર:
 
-Next: [13 October — interview morning](./2026-10-13_Interview_Morning.md).
+આગળ: [13 ઓક્ટોબર — ઇન્ટરવ્યૂની સવાર](./2026-10-13_Interview_Morning.md).
 
-Preparation material organised from the [complete researched guide](./Interview_Preparation_09_to_13_October_2026.md). Suggested topics and questions are not an official interview syllabus.
+આ સામગ્રી [સંપૂર્ણ સંદર્ભ Guide](./Interview_Preparation_09_to_13_October_2026.md) પરથી ગોઠવેલી છે. સૂચવેલા વિષયો અને પ્રશ્નો તૈયારી માટે છે; આ અધિકૃત Interview syllabus નથી.
