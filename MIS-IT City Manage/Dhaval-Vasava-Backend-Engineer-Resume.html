@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dhavalkumar Parvatbhai Vasava – Resume</title>
+  <style>
+    @page { size: A4; margin: 12mm; }
+    * { box-sizing: border-box; }
+    body {
+      font-family: Calibri, "Segoe UI", Arial, sans-serif;
+      font-size: 10.5pt;
+      line-height: 1.35;
+      color: #1a1a1a;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 16px 20px;
+    }
+    .header {
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+      border-bottom: 2px solid #1e3a5f;
+      padding-bottom: 12px;
+      margin-bottom: 12px;
+    }
+    .header img.photo {
+      width: 92px;
+      height: 112px;
+      object-fit: cover;
+      object-position: center top;
+      border: 1px solid #ccc;
+      flex-shrink: 0;
+    }
+    .header-text { flex: 1; }
+    h1 {
+      margin: 0 0 4px;
+      font-size: 18pt;
+      color: #1e3a5f;
+      letter-spacing: 0.3px;
+    }
+    .title {
+      margin: 0 0 8px;
+      font-size: 11pt;
+      color: #334155;
+      font-weight: 600;
+    }
+    .contact {
+      font-size: 9.5pt;
+      color: #333;
+      line-height: 1.45;
+    }
+    .contact a { color: #1e3a5f; text-decoration: none; }
+    h2 {
+      margin: 12px 0 6px;
+      font-size: 11pt;
+      color: #1e3a5f;
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      border-bottom: 1px solid #cbd5e1;
+      padding-bottom: 2px;
+    }
+    p { margin: 0 0 6px; }
+    ul { margin: 4px 0 8px; padding-left: 18px; }
+    li { margin-bottom: 3px; }
+    .job-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      font-weight: 700;
+      margin-top: 4px;
+    }
+    .job-meta { color: #444; font-weight: 600; font-size: 10pt; margin-bottom: 2px; }
+    .muted { color: #555; font-weight: normal; }
+    .skills {
+      display: grid;
+      grid-template-columns: 140px 1fr;
+      gap: 4px 10px;
+      font-size: 10pt;
+    }
+    .skills .label { font-weight: 700; color: #1e3a5f; }
+    .edu-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 4px;
+    }
+    .print-hint {
+      background: #e8f4ff;
+      border: 1px solid #1e3a5f;
+      padding: 10px;
+      margin-bottom: 14px;
+      font-size: 10.5pt;
+    }
+    @media print {
+      .print-hint { display: none; }
+      body { padding: 0; }
+      a { color: inherit; text-decoration: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="print-hint">
+    <strong>Save resume PDF:</strong> Ctrl+P → Destination: Save as PDF → Paper: A4 → Margins: Default.
+    Also copy this file to Downloads if you want: <code>Dhaval-Vasava-Backend-Engineer-Resume.html</code>
+  </div>
+
+  <div class="header">
+    <img class="photo" src="photo.png" alt="Dhavalkumar Parvatbhai Vasava" />
+    <div class="header-text">
+      <h1>DHAVALKUMAR PARVATBHAI VASAVA</h1>
+      <p class="title">Backend Engineer | PHP · Laravel · REST APIs</p>
+      <div class="contact">
+        Gujarat, India &nbsp;|&nbsp;
+        +91 9157921043 / +91 9316014021<br />
+        <a href="mailto:vasavadhaval1149@gmail.com">vasavadhaval1149@gmail.com</a> &nbsp;|&nbsp;
+        <a href="https://github.com/vasavadhaval">github.com/vasavadhaval</a> &nbsp;|&nbsp;
+        <a href="https://www.linkedin.com/in/dhaval-vasava-76a979229/">linkedin.com/in/dhaval-vasava-76a979229</a>
+      </div>
+    </div>
+  </div>
+
+  <h2>Professional Summary</h2>
+  <p>
+    Backend Engineer with <strong>4+ years</strong> of hands-on experience building and maintaining production
+    web applications using PHP frameworks (Laravel, CodeIgniter). Strong focus on REST API design,
+    authentication &amp; authorization, MySQL optimization, third-party integrations, and AWS/production deployment.
+    Completed MCA while working full-time; comfortable owning backend modules end-to-end in a live business environment.
+  </p>
+
+  <h2>Technical Skills</h2>
+  <div class="skills">
+    <div class="label">Languages</div>
+    <div>PHP (OOP), JavaScript, SQL, HTML5, CSS3</div>
+    <div class="label">Frameworks</div>
+    <div>Laravel, CodeIgniter, MVC architecture</div>
+    <div class="label">APIs &amp; Security</div>
+    <div>REST APIs, Token-based auth, Middleware, Role-Based Access Control (RBAC)</div>
+    <div class="label">Database</div>
+    <div>MySQL – schema design, indexing, query optimization, stored logic concepts</div>
+    <div class="label">Tools &amp; DevOps</div>
+    <div>Git, AWS deployment, Hostinger / cPanel, production debugging</div>
+  </div>
+
+  <h2>Professional Experience</h2>
+  <div class="job-head">
+    <span>Software Developer / Backend Engineer</span>
+    <span class="muted">March 2022 – Present</span>
+  </div>
+  <div class="job-meta">Surya Infotech, Surat, Gujarat</div>
+  <ul>
+    <li>Designed and developed secure RESTful APIs for web-based business applications.</li>
+    <li>Implemented token-based authentication, middleware pipelines, and role-based access control.</li>
+    <li>Structured backend modules using MVC and clean, maintainable coding practices.</li>
+    <li>Optimized MySQL queries with indexing and performance tuning for production workloads.</li>
+    <li>Integrated third-party APIs including payment gateways and external services.</li>
+    <li>Managed deployment and configuration on AWS and production hosting environments.</li>
+    <li>Maintained version-controlled codebases using Git workflows while completing MCA (exam leave only).</li>
+  </ul>
+
+  <h2>Selected Projects</h2>
+  <ul>
+    <li><strong>Billing &amp; Inventory Management System</strong> — Laravel MVC backend with RBAC and optimized database queries for day-to-day operations.</li>
+    <li><strong>REST API Integration System</strong> — Structured API endpoints for frontend and third-party clients with secure token authentication.</li>
+    <li><strong>Authentication &amp; Access Module</strong> — Middleware-based multi-role access control and session handling.</li>
+  </ul>
+
+  <h2>Education</h2>
+  <div class="edu-row">
+    <span><strong>MCA (Master of Computer Applications)</strong> — Gujarat Technological University (GTU)</span>
+    <span class="muted">2022 – 2026</span>
+  </div>
+  <p class="muted" style="margin-top:-2px; margin-bottom:6px;">Passed: 29 Jan 2026 &nbsp;|&nbsp; 73.40%</p>
+  <div class="edu-row">
+    <span><strong>B.Voc (Software Development)</strong> — Gujarat Technological University (GTU)</span>
+    <span class="muted">2019 – 2022</span>
+  </div>
+  <p class="muted" style="margin-top:-2px; margin-bottom:6px;">Passed: 31 May 2022 &nbsp;|&nbsp; 77.99%</p>
+  <div class="edu-row">
+    <span><strong>HSC (Science – Maths)</strong> — GSEB</span>
+    <span class="muted">2019</span>
+  </div>
+  <div class="edu-row">
+    <span><strong>SSC (10th)</strong> — GSEB</span>
+    <span class="muted">2017 &nbsp;|&nbsp; 77.17%</span>
+  </div>
+
+  <h2>Additional Information</h2>
+  <ul>
+    <li>Category: ST &nbsp;|&nbsp; DOB: 25 Sep 2001 &nbsp;|&nbsp; Languages: English, Hindi, Gujarati</li>
+    <li>Willing to relocate (including New Delhi) and learn ASP.NET / C# / SQL Server for enterprise projects</li>
+  </ul>
+</body>
+</html>
